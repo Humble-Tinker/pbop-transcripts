@@ -1,4 +1,4 @@
-# Cloudfall Episode 6: "Stop Trying to Make "Gambeson" Happen"
+# Cloudfall Episode 6: "Stop Trying to Make 'Gambeson' Happen"
 
 *People Being Other People · Season 2: Cloudfall*
 

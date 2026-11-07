@@ -51,7 +51,8 @@
 - Air Genasi · levitation · watched the Blight for months (E03–E04)
 - Wounded retrieving the divining stone · saved by Journey (E05)
 - Knew about Libera's bug · removed it and threw it overboard · Genasi were a spectacle in the Old Kingdoms; Libera treated them as people (E06)
-- **Status: staying with the Heavenly Feather while the party is on Lor · returns in two weeks (E06)**
+- Warned the party something is happening in the clouds · has other things to see out there (E07)
+- **Status: aboard the Heavenly Feather · returns for the party in two weeks (E07)**
 
 ### Clara
 - Gnome · owner of the Drip Sipper (E01, E03)
@@ -75,12 +76,22 @@
 - Captain of the Heavenly Feather · reformed pirate · peg leg · Lamplight Landing near-death · Dawn's Edge (E05)
 - Knows Eryn by name on Libera's word · private stairwell from his office (E05)
 - Cutlass at dinner · warned Eryn off, then made it captain's orders that she stay accounted for (E06)
+- The party's passage was paid for by someone · told Eryn he doesn't trust her · left five crew on Lor to mine Bismyte (E07)
 
 ### Heavenly Feather crew
 - Young elf singer · old medic (E05)
-- **Chef Bowie** — bullywug chef (E05, named E06)
+- **Chef Bowie** — bullywug chef (E05, named E06) · ex-bar cook · gave Poppy a spell-catching ladle (E07)
 - **DeWalter** and **Makeda** — engineers · removed the Rolling Pin's regulator (E05, named E06)
 - **Kesher** — kite glider · Eryn's overnight guard · lost her · writes in a notebook (E06)
+
+### Hubert
+- Tortle prime archivist of the Isle of Lor · formal, dry · points Journey to Tower 12 · forbids Tower 13 (E07)
+
+### Mikey
+- Tortle · Hubert's nephew and apprentice · may not be spoken to · terrible baker (E07)
+
+### April
+- Tortle archivist · collects stories with drift weed and story jars (E07)
 
 ## Deceased
 
@@ -88,6 +99,7 @@
 - **Barb** — pipe-smoking enforcer · killed by Journey (E01)
 - **Thompson** — oldest Blight member · killed by Journey (E01)
 - **Wolf specter** — destroyed by iron at the Forge Ring (E03)
+- **Brigand "Mancy"/"Nancy"** — killed by Guy before the campaign (E07 flashback · name unconfirmed)
 
 ## Fictional (party disguises)
 

@@ -12,7 +12,7 @@
 | Canonical | Also Appears As | Notes |
 |-----------|----------------|-------|
 | Eryn | Aaron · Erin · Eren | Changeling rogue · player: Hannah |
-| Journey | Journee | Firbolg ranger · player: Tara |
+| Journey | Journee · Jurnee | Firbolg ranger · player: Tara |
 | Poppy (Kenmore) | Poppy (correct) | Halfling baker-warlock · player: Maggie |
 | Guy | Guy (correct) | Dullahan paladin · player: Thomas |
 | Doran | Doreen · Dorne · Doren · Dorn · Darren · Dorian | Human bard · player: John |
@@ -29,7 +29,7 @@
 | Clara | Clara (correct) | Gnome bartender · Drip Sipper owner |
 | Phynom Green | Phenom Green · Phenomenon Green · phenom (lowercase, very frequent) | Illusionist · Fey · agent of Nimbus |
 | Rolan Thunder | Roland (Transistor adds trailing 'd') | Air Genasi · Phynom's associate |
-| Libera Cambria Nimbus | Libera · Nimbus · Liberia · Lavera | City leader of Farewell |
+| Libera Cambria Nimbus | Libera · Nimbus · Liberia · Lavera · Labira | City leader of Farewell |
 | Rune | Roone · Rhun | Young artificer · made the echo bells |
 | Sir Beau | Sir Bo · Servo · Serbo | Warforged · Rune's messenger |
 | Ribbo | Ribba | Young dragonborn · fled · spared by Journey · E4: Blight tracker |
@@ -45,6 +45,9 @@
 | Makeda | Mikita · Makita · Nikita | Heavenly Feather engineer · minor casting (E06) |
 | Chef Bowie | Chef Bowie (correct) | Bullywug chef of the Heavenly Feather (named E06) |
 | Kesher | Cashier | Kite-glider crew member · Eryn's assigned guard (E06) |
+| Hubert | Huber | Tortle · prime archivist of Lor (E07) |
+| Mikey | Mikey (correct) | Tortle · Hubert's nephew and apprentice · terrible baker (E07) |
+| April | April (correct) | Tortle archivist · collects stories with drift weed (E07) |
 
 ---
 

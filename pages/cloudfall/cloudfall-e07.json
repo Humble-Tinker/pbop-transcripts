@@ -1,0 +1,20 @@
+{
+  "episode": 7,
+  "title": "Sweet Life on Deck",
+  "hook": "The party lands on the Isle of Lor, where knowledge can only be bought with stories, and telling theirs pulls everyone back to the day they met.",
+  "summary": [
+    "The last morning on the Heavenly Feather is a breakfast rush. **Poppy** sells out to the crew while **Guy** parks his head by the oven to watch the trays, **Journey** gets a cake baked just for her, and **Captain Yarhar** delivers a strange gift from the ship's chef along with a hint that the party's passage wasn't free.",
+    "The ship lands on the **Isle of Lor**. Yarhar tells **Eryn** to her face that he doesn't trust her, **Rolan Thunder** warns that something is happening in the clouds, and the tortle prime archivist **Hubert** welcomes them with a birthday cake no one can swallow.",
+    "Lor is a library of 119 basalt towers, and its knowledge can't be bought with gold, only with stories. One tower is off limits: the tower of curses, sealed after a great sacrifice. It's exactly where Guy would need to go.",
+    "In a dark, incense-filled hut, the archivist **April** collects the party's stories, and they become shared memories. **Doran** recruits a struggling baker and her bodyguard, then catches a starving thief robbing their cart. Poppy and Guy relive the day they met and the night his head first came off.",
+    "Then Journey remembers how she met Eryn, and the memory won't let her go. She falls into a cold dark above a distant planet, sees a face she hasn't seen in a very long time, and hears a single word."
+  ],
+  "parts": [
+    {"name": "Breakfast Rush", "start": "00:00"},
+    {"name": "Landing on Lor", "start": "14:40"},
+    {"name": "The Archivist's Tour", "start": "27:10"},
+    {"name": "The Story Circle", "start": "56:03"},
+    {"name": "Poppy & Guy", "start": "70:03"},
+    {"name": "Journey's Vision", "start": "79:10"}
+  ]
+}

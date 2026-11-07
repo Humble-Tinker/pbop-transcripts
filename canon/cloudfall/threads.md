@@ -5,9 +5,13 @@
 ## Open
 
 - **Doran's dream** — floating castles, a familiar roar, falling · first E01 · not touched since
+- **Journey's vision** — cold void, a distant blue-green planet, a familiar face, "Seek" · first E07
 - **Diver** — escaped by engineless Bismyte flight E02 · at large · Libera handling him (E04)
-- **Doran and Diver** — Doran says Diver was involved in "what happened to him" (E03)
+- **Doran and Diver** — Doran says Diver was involved in "what happened to him" (E03) · "He took a lot from me" · promised to tell the story (E07)
+- **A larger network** — Doran: Diver isn't at the top (E07)
 - **Guy's hunter** — a former companion swore to hunt him (E03)
+- **Guy's curse** — records are in Tower 13, sealed after a "great sacrifice" · Guy remembers almost nothing of his life before he died · gold burns him (E07)
+- **Tower 12** — fey magic · Hubert insists Journey go (E07)
 - **Guy and the Blade of Lodom** — uncanny fit (E04)
 - **"It happened again"** — Guy's head has come off before (E02)
 - **Tic** — fled (E03)
@@ -24,7 +28,9 @@
 - **Yarhar's trust in Eryn** — caught in his office E05 · captain's orders to stay accounted for (E06)
 - **The guarded cargo-hold door** — an armed sailor always on it (E06)
 - **Kesher's notebook** (E06)
-- **The burly crew** — some sailors don't know their jobs (E05)
+- **The burly crew** — some sailors don't know their jobs (E05) · five crew left on Lor to mine Bismyte (E07)
+- **Who paid for the passage** — Yarhar: "not free" (E07)
+- **Rolan's warning** — "a lot happening in the clouds right now" (E07)
 - **The Rolling Pin's regulator** — removed behind Poppy's back (E05)
 
 ## Resolved

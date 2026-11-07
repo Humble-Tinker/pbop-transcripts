@@ -13,6 +13,8 @@
 - **Loafers of levitation**, **enlarging belt** — Poppy (E04)
 - **Ripcord smoke-and-flash belt** — Eryn · first used E05: smoke plus strobing spinners, 20-ft blind and deafen
 - **Jar of Mercy's blood** (E05)
+- **Chef Bowie's ladle** — pewter · catches small spells and flings them back · Poppy (E07)
+- **Fiber field cake** — bran-and-fruit biscuit · resistance to nonmagical B/P/S, advantage on Str/Con saves and vs knockback/prone · Journey holds one (E07)
 - **Eryn's wooden carving** — two elven faces (E02)
 
 ## Bismyte
@@ -33,3 +35,8 @@
 - **Null Substrata** — magic-cancelling mist; ships that touch it fall (E05)
 - **Kite gliders** — folding wings, the ship's lifeboat substitute (E05)
 - **Yarhar's three rules** — don't touch down where you can't take off · don't fly at night · stay out of the clouds (E05)
+- **Story jars** — Lor's magic · smoke records spoken stories · white true, black known lie, gray fiction · paid in "chapters" (E07)
+- **Drift weed** — incense that loosens memory · listeners can be pulled into a story (E07)
+- **Dullahan** — body works while the head can see it · gold burns Guy (E07)
+- **Bismyte on Lor** — keeps the island afloat · taken for granted · now being mined (E07)
+- **Cookie economy** — GM ruling: 1 gold = 10 cookies (E07)

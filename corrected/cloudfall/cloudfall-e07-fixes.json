@@ -1,0 +1,24 @@
+{
+  "_note": "Reviewed fixes for E07 after a full read. Flashback scenes have heavy crosstalk; only clear cases changed.",
+  "speakers": {
+    "00:04:27.970": "Tara / Journey",
+    "00:18:17.685": "Hannah / Eryn",
+    "00:18:18.005": "Hannah / Eryn",
+    "00:37:42.505": "Maggie / Poppy",
+    "00:47:09.440": "Hannah / Eryn",
+    "01:02:39.535": "Maggie / Poppy",
+    "01:08:08.230": "John / Doran",
+    "01:15:54.710": "Maggie / Poppy",
+    "01:25:40.430": "Tara / Journey",
+    "01:26:02.915": "Tara / Journey"
+  },
+  "text": [
+    ["00:01:24.515", "Laura would be approaching", "Lor would be approaching"],
+    ["00:12:42.905", "Chef Bo is", "Chef Bowie is"],
+    ["00:19:34.140", "Dolan", "Doran"],
+    ["00:29:12.920", "Constructed of basil", "Constructed of basalt"],
+    ["00:30:32.115", "Taua 96", "Tower 96"],
+    ["00:46:00.710", "here on Lore", "here on Lor"],
+    ["01:10:09.190", "Toldry", "Teledry"]
+  ]
+}

@@ -20,11 +20,15 @@
 
 ## Skylands & the clouds
 - **Isle of Lor** — destination · in Lower Cumula · cluster of floating basalt-column islands joined by rope bridges, lower half in permanent cloud (E03–E06)
+  - Miles wide · moss landing field · stony canyons · misty juniper forest (E07)
+  - 119 basalt towers, each a library on one subject, all the same height but shifted up or down (E07)
+  - **Tower 12** — fey magic · **Tower 13** — curses, sealed, low on the east end · **Tower 96** — plants and food (E07)
+  - **Warming house** — guest house, four rooms · **April's hut** — the story circle (E07)
 - **Saffron** — food-famous skyland · Poppy's goal (E04)
 - **High Shire** — halfling-only skyland (E05)
 - **Cloud strata** — regular atmosphere · Upper Cumula · Lower Cumula · Null Substrata (E05)
 - **Lower Cumula** — dark as night, violent wind, constant lightning (E06)
-- **Teledry** — site of the magic school Poppy dropped out of (E06 · mentioned)
+- **Teledry** — Tower of Magic Poppy dropped out of (E06–E07 · spelling unconfirmed)
 
 ## Vessels
 - **The Heavenly Feather** — Dawn's Edge sky ship · Captain Yarhar · maiden voyage · galley, quarters, storage, engine room · captain's secret stairwell (E05) · rope closet, guarded cargo-hold door, crow's nest (E06)
