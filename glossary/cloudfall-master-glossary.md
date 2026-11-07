@@ -1,7 +1,7 @@
 # People Being Other People — Cloudfall Master Glossary
 *People Being Other People · Season 2: Cloudfall · Canonical spellings and known Transistor variants · updated through Episode 4*
 
-> Imported from the Project copy dated 2026-07-09. Entries confirmed in E05–E07 (Heavenly Feather, High Shire, cloud strata terms, Yarhar, DeWalter, Makeda, Chef Bowie, Kesher, Libera/"Liberia", puppy/Poppy ambiguity) still need to be merged in from the September session's glossary.
+> Imported from the Project copy dated 2026-07-09, then extended with the names Tim confirmed in the September E05–E07 session (Heavenly Feather, High Shire, cloud strata, Yarhar, DeWalter, Makeda, Chef Bowie, Kesher, Libera/"Liberia", puppy/Poppy). Variant spellings for those were re-derived from the transcripts.
 
 **Usage:** the Canonical column is the one true spelling for each name or term. Always capitalize proper nouns and use the exact canonical form everywhere, in every deliverable. Firbolg names are proper nouns written as capitalized words (e.g. Fry Dough, Sell Em, Nourish All, Good Look), never lowercased or run together.
 
@@ -12,10 +12,10 @@
 | Canonical | Also Appears As | Notes |
 |-----------|----------------|-------|
 | Eryn | Aaron · Erin · Eren | Changeling rogue · player: Hannah |
-| Journey | Journey (correct) | Firbolg ranger · player: Tara |
+| Journey | Journee | Firbolg ranger · player: Tara |
 | Poppy (Kenmore) | Poppy (correct) | Halfling baker-warlock · player: Maggie |
 | Guy | Guy (correct) | Dullahan paladin · player: Thomas |
-| Doran | Doreen · Dorne | Human bard · player: John |
+| Doran | Doreen · Dorne · Doren · Dorn | Human bard · player: John |
 | Pinch | Pinch (correct) | Poppy's dough familiar · lives in her shirt |
 
 ---
@@ -29,7 +29,7 @@
 | Clara | Clara (correct) | Gnome bartender · Drip Sipper owner |
 | Phynom Green | Phenom Green · Phenomenon Green · phenom (lowercase, very frequent) | Illusionist · Fey · agent of Nimbus |
 | Rolan Thunder | Roland (Transistor adds trailing 'd') | Air Genasi · Phynom's associate |
-| Libera Cambria Nimbus | Libera · Nimbus | City leader of Farewell |
+| Libera Cambria Nimbus | Libera · Nimbus · Liberia · Lavera | City leader of Farewell |
 | Rune | Roone · Rhun | Young artificer · made the echo bells |
 | Sir Beau | Sir Bo · Servo · Serbo | Warforged · Rune's messenger |
 | Ribbo | Ribba | Young dragonborn · fled · spared by Journey · E4: Blight tracker |
@@ -40,6 +40,11 @@
 | Nourish All | Nureshall · Nourishall · Nurishall | Fry Dough's former name (Firbolg naming by function) |
 | Sell Em | Sellum · Sell em | Journey's Firbolg kin · renamed by function · formerly Good Look |
 | Good Look | Goodlook · Good look | Sell Em's former name (Firbolg naming by function) |
+| Yarhar | Yahar · Yaharra · Yahair · Jarhar · Yar har · Yaharr | Captain of the Heavenly Feather · ex-pirate (E05) |
+| DeWalter | — | Confirmed E06–E07 · see wiki |
+| Makeda | — | Confirmed E06–E07 · see wiki |
+| Chef Bowie | — | Confirmed E06–E07 · see wiki |
+| Kesher | — | Confirmed E06–E07 · see wiki |
 
 ---
 
@@ -76,9 +81,14 @@
 | Dawn's Edge | Dawn's Edge (correct) | Western city · origin of the Tack |
 | Forge Ring | Forge Ring (correct) | Industrial district · metal shops |
 | Winged Spire | Winged Spire · Winged Spire | Tower hotel · diplomatic suite |
-| Isle of Lor | Lor · Lore · Isle of Lore | Skyland · confirmed destination (E4) |
+| Isle of Lor | Lor · Lore · Isle of Lore · Isle of Lhor | Skyland · confirmed destination (E4) |
 | Saffron | Saffron (correct — new) | Food-famous skyland · Poppy's goal (E4) |
 | Cilivry | Silvery · the Silvery | A guild / skyland |
+| High Shire | High Shire (correct) | Halfling-only skyland (E05) |
+| Upper Cumula | Upper Cumula (correct) | Cloud stratum between the first two cloud layers (E05) |
+| Lower Cumula | Lower Cumula (correct) | Rainy, dark lower stratum · Isle of Lor is here (E05) |
+| Null Substrata | null substrata | Magic-cancelling mist at the bottom · certain death for ships (E05) |
+| Lamplight Landing | Lamplight Landing (correct) | City where Yarhar nearly died (E05 · mentioned) |
 | Lodom | Lotem · Loedem | A guild / skyland |
 
 ---
@@ -140,7 +150,8 @@
 | Spark engine | spark engine (correct) | Bismyte-powered airship propulsion |
 | Break Day | Break (correct) | 15th anniversary of Farewell's founding |
 | The Blight | the Blight (correct) | Criminal guild · Diver's organization |
-| The Tack | the Tack (correct) | Dawn's Edge guild airship |
+| The Tack | the Tack (correct) | Dawn's Edge guild airship (named in E03–E04) |
+| Heavenly Feather | heavenly feather | Dawn's Edge airship the party actually boards (E05) |
 | Gove | gove (correct) | Cockney address term · not a name |
 
 ---

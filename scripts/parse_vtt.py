@@ -4,8 +4,8 @@ Parse a Transistor-exported WebVTT transcript for the PBOP Cloudfall pipeline.
 
 Deterministic bookkeeping only:
   - splits cues into (start, end, speaker, text) tuples
-  - reassigns non-<v ...> text lines to "Tim / GM" (Transistor emits GM
-    narration without a speaker tag)
+  - untagged cues continue the last tagged speaker (Transistor omits the
+    tag when a line spills across a cue boundary)
   - computes per-speaker line counts and air time (sum of end - start)
 
 It does NOT correct speakers, apply the glossary, or interpret combat — those
@@ -50,6 +50,7 @@ def parse(raw):
     raw = raw.replace("\r\n", "\n").replace("\r", "\n")
     blocks = re.split(r"\n\s*\n", raw)
     cues = []
+    last_speaker = GM
     for block in blocks:
         lines = [ln for ln in block.split("\n") if ln.strip()]
         if not lines:
@@ -72,9 +73,13 @@ def parse(raw):
             speaker = mv.group(1).strip()
             body = mv.group(2).strip()
         else:
-            # Non-tagged text in a cue = GM narration Transistor left unlabeled.
-            speaker = GM
+            # Untagged cue: Transistor drops the tag when a speaker's sentence
+            # spills across a cue boundary, so it continues the last tagged
+            # speaker (fix found in E07). Only a cue with no prior speaker
+            # falls back to GM.
+            speaker = last_speaker
             body = text
+        last_speaker = speaker
         cues.append(
             {
                 "start": start,

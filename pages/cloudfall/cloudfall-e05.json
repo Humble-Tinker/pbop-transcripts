@@ -1,0 +1,19 @@
+{
+  "episode": 5,
+  "title": "Pinned Down",
+  "hook": "The Blight corner the party outside Rune's workshop, and the only way out is a five-mile-an-hour bakery cart and a crowd of a few hundred Phynoms. Then the Heavenly Feather drops off the edge of the world.",
+  "summary": [
+    "The Blight have found the Rolling Pin. **Mercy**, **Ribbo**, and **Derringer** close in with a divining stone locked onto **Eryn**, and **Phynom Green** answers with one word: showtime. Hundreds of illusory Phynoms flood the streets of **Farewell** while **Rolan Thunder** goes out to steal the stone.",
+    "It gets ugly fast. Rolan throws the stone into the cart and goes down. **Journey** runs back to heal him and takes three of Mercy's scorching rays, dropping ten feet short of safety until **Doran** brings her back with a Healing Word. Eryn slips into the crowd disguised as an illusion, sneak-attacks Mercy, and vanishes in a burst of smoke from her new escape belt.",
+    "Safe in the cart, Journey bites the cracked divining stone to pieces. Eryn explains how the Blight track their own: through blood, collected by the same woman who raised the Blight's children. She scrapes Mercy's blood off her dagger and into a jar.",
+    "The party boards the **Heavenly Feather**, a Dawn's Edge sky ship on its maiden voyage, captained by the reformed pirate **Yarhar**, who somehow already knows Eryn. Rolan comes along for a rest. The ship nose-dives off the cliff and levels out over the clouds, and Yarhar lays down the rules of the sky: the cloud strata, the Null Substrata below, and above all, stay out of the clouds.",
+    "Everyone finds a corner of the ship. **Poppy** rescues **Pinch** from a bullywug chef's oven, **Guy** and Doran let the engineers rip the regulator off the Rolling Pin, and Eryn maps the captain's secret stairwell. When she slips back into Yarhar's office to pick his desk locks, the captain is sitting right there."
+  ],
+  "parts": [
+    {"name": "The Getaway", "start": "00:00"},
+    {"name": "Breaking the Stone", "start": "25:00"},
+    {"name": "Welcome Aboard", "start": "31:00"},
+    {"name": "Over the Edge", "start": "50:00"},
+    {"name": "Galley, Engines & the Captain's Door", "start": "59:00"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_note": "Reviewed fixes for E05 after a full read. Speaker keys are cue start times. Each entry is a judgment call: context over channel.",
+  "speakers": {
+    "00:04:24.600": "Maggie / Poppy",
+    "00:04:29.480": "Tim / GM",
+    "00:06:40.230": "Tim / GM",
+    "00:06:51.135": "Tim / GM",
+    "00:08:43.281": "Tim / GM",
+    "00:10:18.570": "Tara / Journey",
+    "00:27:50.585": "Tara / Journey",
+    "00:37:17.755": "Tim / GM",
+    "00:40:23.252": "Tim / GM",
+    "00:46:03.160": "Hannah / Eryn",
+    "00:52:50.370": "Tim / GM",
+    "00:55:30.165": "Tim / GM",
+    "01:12:59.715": "Tim / GM",
+    "01:14:05.100": "Tim / GM"
+  },
+  "text": [
+    ["00:12:42.835", "Phynom Rollins down", "Phynom, Rolan's down"],
+    ["00:13:00.720", "Insight on Feenal", "Insight on Phynom"],
+    ["00:14:01.375", "Kirowind", "cure wounds"],
+    ["00:30:35.970", "Daver", "Diver"],
+    ["00:43:09.490", "Be well, attorney", "Be well, Journey"],
+    ["00:49:29.385", "And Phina made", "And Phynom made"]
+  ]
+}
