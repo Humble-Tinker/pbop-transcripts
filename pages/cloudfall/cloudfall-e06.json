@@ -1,0 +1,20 @@
+{
+  "episode": 6,
+  "title": "Stop Trying to Make \"Gambeson\" Happen",
+  "hook": "A night aboard the Heavenly Feather turns into a spy story: something tiny and invisible is stuck to Doran's jacket, and the quietest person on the ship knows exactly what it is.",
+  "summary": [
+    "Caught red-handed in his office, **Captain Yarhar** sends **Eryn** off with a warning and a guard on her door. Over dinner, **Poppy** serves the crew Italian Dunkers, Eryn starts a rumor by not knowing what they are, and the engineers **DeWalter** and **Makeda** explain that the Rolling Pin can now go ludicrously fast.",
+    "**Doran** catches **Rolan Thunder** staring at his shoulder. In a closet full of rope, Eryn finds something tiny and invisible stuck to Doran's jacket. In the cargo hold, Poppy identifies it: a miniature echo bell, a listening device. **Journey** remembers exactly when it was planted.",
+    "Doran takes Rolan for a walk on the moonlit deck to get the truth. What comes out is a piece of Doran's own past in Dawn's Edge, and a confession from Rolan, who says something into the bug before he throws it into the clouds.",
+    "Meanwhile Eryn's new guard, a kite glider named **Kesher**, loses her to a perfect sneak, and Eryn spends the night in the crow's nest. By morning Yarhar has turned his request into captain's orders.",
+    "Then the ship drops through a break in the clouds into **Lower Cumula**, a dark layer full of lightning, where anyone wearing levitation gear starts floating off the deck. Ahead, at last, is the **Isle of Lor**."
+  ],
+  "parts": [
+    {"name": "Caught in the Captain's Office", "start": "00:00"},
+    {"name": "Dunkers & Engineers", "start": "05:00"},
+    {"name": "The Bell on Doran's Shoulder", "start": "14:59"},
+    {"name": "Rolan on the Deck", "start": "45:14"},
+    {"name": "Eryn's Night Watch", "start": "56:48"},
+    {"name": "Captain's Orders & the Descent to Lor", "start": "66:36"}
+  ]
+}

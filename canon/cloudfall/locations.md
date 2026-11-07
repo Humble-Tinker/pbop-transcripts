@@ -19,11 +19,13 @@
 - **Lamplight Landing** — where Yarhar nearly died (E05 · mentioned)
 
 ## Skylands & the clouds
-- **Isle of Lor** — destination · civilized · in Lower Cumula (E03–E05)
+- **Isle of Lor** — destination · in Lower Cumula · cluster of floating basalt-column islands joined by rope bridges, lower half in permanent cloud (E03–E06)
 - **Saffron** — food-famous skyland · Poppy's goal (E04)
 - **High Shire** — halfling-only skyland (E05)
 - **Cloud strata** — regular atmosphere · Upper Cumula · Lower Cumula · Null Substrata (E05)
+- **Lower Cumula** — dark as night, violent wind, constant lightning (E06)
+- **Teledry** — site of the magic school Poppy dropped out of (E06 · mentioned)
 
 ## Vessels
-- **The Heavenly Feather** — Dawn's Edge sky ship · Captain Yarhar · maiden voyage · galley, quarters, storage, engine room · captain's secret stairwell (E05)
+- **The Heavenly Feather** — Dawn's Edge sky ship · Captain Yarhar · maiden voyage · galley, quarters, storage, engine room · captain's secret stairwell (E05) · rope closet, guarded cargo-hold door, crow's nest (E06)
 - **The Rolling Pin** — Poppy's levitating bakery cart · disguised as the Tough Cookie, then Taco Taco Taco · regulator removed (E04–E05)

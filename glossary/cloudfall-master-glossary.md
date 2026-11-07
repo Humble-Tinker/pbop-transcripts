@@ -15,7 +15,7 @@
 | Journey | Journee | Firbolg ranger · player: Tara |
 | Poppy (Kenmore) | Poppy (correct) | Halfling baker-warlock · player: Maggie |
 | Guy | Guy (correct) | Dullahan paladin · player: Thomas |
-| Doran | Doreen · Dorne · Doren · Dorn | Human bard · player: John |
+| Doran | Doreen · Dorne · Doren · Dorn · Darren · Dorian | Human bard · player: John |
 | Pinch | Pinch (correct) | Poppy's dough familiar · lives in her shirt |
 
 ---
@@ -40,11 +40,11 @@
 | Nourish All | Nureshall · Nourishall · Nurishall | Fry Dough's former name (Firbolg naming by function) |
 | Sell Em | Sellum · Sell em | Journey's Firbolg kin · renamed by function · formerly Good Look |
 | Good Look | Goodlook · Good look | Sell Em's former name (Firbolg naming by function) |
-| Yarhar | Yahar · Yaharra · Yahair · Jarhar · Yar har · Yaharr | Captain of the Heavenly Feather · ex-pirate (E05) |
-| DeWalter | — | Confirmed E06–E07 · see wiki |
-| Makeda | — | Confirmed E06–E07 · see wiki |
-| Chef Bowie | — | Confirmed E06–E07 · see wiki |
-| Kesher | — | Confirmed E06–E07 · see wiki |
+| Yarhar | Yahar · Yaharra · Yahair · Jarhar · Yar har · Yaharr · Yarra | Captain of the Heavenly Feather · ex-pirate (E05) |
+| DeWalter | De Walter | Heavenly Feather engineer (E06) · the table also calls him "Walter" |
+| Makeda | Mikita · Makita · Nikita | Heavenly Feather engineer · minor casting (E06) |
+| Chef Bowie | Chef Bowie (correct) | Bullywug chef of the Heavenly Feather (named E06) |
+| Kesher | Cashier | Kite-glider crew member · Eryn's assigned guard (E06) |
 
 ---
 
@@ -81,7 +81,7 @@
 | Dawn's Edge | Dawn's Edge (correct) | Western city · origin of the Tack |
 | Forge Ring | Forge Ring (correct) | Industrial district · metal shops |
 | Winged Spire | Winged Spire · Winged Spire | Tower hotel · diplomatic suite |
-| Isle of Lor | Lor · Lore · Isle of Lore · Isle of Lhor | Skyland · confirmed destination (E4) |
+| Isle of Lor | Lor · Lore · Isle of Lore · Isle of Lhor · Isle of Lohr | Skyland · basalt-column cluster in Lower Cumula (E4, E06) |
 | Saffron | Saffron (correct — new) | Food-famous skyland · Poppy's goal (E4) |
 | Cilivry | Silvery · the Silvery | A guild / skyland |
 | High Shire | High Shire (correct) | Halfling-only skyland (E05) |

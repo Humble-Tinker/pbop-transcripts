@@ -23,9 +23,11 @@
 
 ## Magic & mechanics
 - **Spark engine** — Bismyte airship propulsion · Mark series, Mark 3s mentioned (E01, E05)
-- **Levitator** — precursor to the spark engine · powers the Rolling Pin (E04–E05)
+- **Levitator** — precursor to the spark engine · powers the Rolling Pin (E04–E05) · unregulated: rotates 360, safe to 10 mph, runs the oven hot (E06)
 - **Fairy fire** — Diver's opener (E02)
 - **Divining stone** — enchanted quartz tracking by object or blood · destroyed (E04–E05)
+- **Listening bell** — tiny invisible echo bell Libera planted on Doran · destroyed (E06)
+- **Buoyancy on descent** — Genasi and levitation gear float free when the ship drops a stratum (E06)
 - **Feybuds** — fey swarm in Journey's hair (E01) · one drained by Diver (E02)
 - **Phynom's illusions** — break at thresholds (E03) · can field hundreds at once (E05)
 - **Null Substrata** — magic-cancelling mist; ships that touch it fall (E05)

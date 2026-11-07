@@ -18,14 +18,18 @@
 - **Phynom's Fey nature** — sensed by Journey E03 · not confronted
 - **Phynom's true face** — scars, blades, armor under the illusion (E05)
 - **Libera's secrets** — the Feybud-Bismyte fusion, the engineless airship (E03–E04)
-- **Doran's Dawn's Edge past** (E04)
+- **Doran's Dawn's Edge past** — Libera hints (E04) · grew up best friends with Libera's brother during the revolution (E06)
 - **Saffron** — Poppy's goal (E04)
 - **The Tack vs. the Heavenly Feather** — ship named differently in E03–E04 and E05 (E05)
-- **Eryn caught in Yarhar's office** — cliffhanger (E05)
+- **Yarhar's trust in Eryn** — caught in his office E05 · captain's orders to stay accounted for (E06)
+- **The guarded cargo-hold door** — an armed sailor always on it (E06)
+- **Kesher's notebook** (E06)
 - **The burly crew** — some sailors don't know their jobs (E05)
 - **The Rolling Pin's regulator** — removed behind Poppy's back (E05)
 
 ## Resolved
+
+- **Libera's listening bell** — found and thrown overboard by Rolan (E06)
 
 - **The divining stone** — destroyed by Journey (E05)
 - **The wolf specter** — destroyed by iron (E03)

@@ -1,0 +1,42 @@
+{
+  "_note": "Reviewed fixes for E06 after a full read. Most are Kesher's (GM) lines that landed on Hannah's channel during the night-watch scene.",
+  "speakers": {
+    "00:02:33.650": "Tim / GM",
+    "00:03:12.735": "Hannah / Eryn",
+    "00:14:48.675": "Tim / GM",
+    "00:27:18.880": "Tim / GM",
+    "00:28:26.870": "Tim / GM",
+    "00:54:14.300": "John / Doran",
+    "00:58:21.390": "Tim / GM",
+    "00:59:43.470": "Tim / GM",
+    "00:59:54.545": "Tim / GM",
+    "01:00:03.230": "Tim / GM",
+    "01:00:08.350": "Tim / GM",
+    "01:00:18.420": "Tim / GM",
+    "01:00:47.995": "Tim / GM",
+    "01:00:59.420": "Tim / GM",
+    "01:01:28.360": "Tim / GM",
+    "01:02:57.395": "Tim / GM",
+    "01:03:15.815": "Tim / GM",
+    "01:03:58.295": "Tim / GM",
+    "01:04:09.235": "Tim / GM",
+    "01:04:36.000": "Tim / GM",
+    "01:04:49.395": "Tim / GM",
+    "01:04:52.620": "Tim / GM",
+    "01:05:03.375": "Tim / GM",
+    "01:11:22.370": "Tara / Journey",
+    "01:17:48.470": "Tim / GM"
+  },
+  "text": [
+    ["00:09:18.480", "I must ask, Jodie", "I must ask, Journey"],
+    ["00:25:11.315", "Jenny doesn't know", "Journey doesn't know"],
+    ["00:35:23.215", "Kai, maybe", "Guy, maybe"],
+    ["00:35:58.995", "You should know this, Kai", "You should know this, Guy"],
+    ["00:54:40.145", "when you all go to lore", "when you all go to Lor"],
+    ["00:56:15.920", "Thanks, Skye and Poppy", "Thanks, Guy and Poppy"],
+    ["00:59:16.485", "Gambiton", "Gambeson"],
+    ["00:59:19.045", "Gambiton", "gambeson"],
+    ["00:59:20.085", "Gambiton", "gambeson"],
+    ["01:09:29.755", "subismite", "some Bismyte"]
+  ]
+}

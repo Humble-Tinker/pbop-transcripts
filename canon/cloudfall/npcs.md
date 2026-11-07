@@ -36,6 +36,7 @@
 - Leader of Farewell · goes by Nimbus (E01, E03)
 - Gifted the party a blue-violet Bismyte crystal for their silence · obsessed with the clouds (E04)
 - Paid for the Heavenly Feather's Bismyte and for Eryn's welcome (E05)
+- Planted a tiny invisible listening bell on Doran in E04 to hear if Diver found the party · Doran grew up best friends with her brother (E06)
 
 ### Farewell
 - White-haired co-founder of the city · shares its name · running bit (E04)
@@ -49,7 +50,8 @@
 ### Rolan Thunder
 - Air Genasi · levitation · watched the Blight for months (E03–E04)
 - Wounded retrieving the divining stone · saved by Journey (E05)
-- **Status: aboard the Heavenly Feather, resting (E05)**
+- Knew about Libera's bug · removed it and threw it overboard · Genasi were a spectacle in the Old Kingdoms; Libera treated them as people (E06)
+- **Status: staying with the Heavenly Feather while the party is on Lor · returns in two weeks (E06)**
 
 ### Clara
 - Gnome · owner of the Drip Sipper (E01, E03)
@@ -72,9 +74,13 @@
 ### Captain Yarhar
 - Captain of the Heavenly Feather · reformed pirate · peg leg · Lamplight Landing near-death · Dawn's Edge (E05)
 - Knows Eryn by name on Libera's word · private stairwell from his office (E05)
+- Cutlass at dinner · warned Eryn off, then made it captain's orders that she stay accounted for (E06)
 
 ### Heavenly Feather crew
-- Bullywug chef · two engineers · young elf singer · old medic · kite-glider woman (E05)
+- Young elf singer · old medic (E05)
+- **Chef Bowie** — bullywug chef (E05, named E06)
+- **DeWalter** and **Makeda** — engineers · removed the Rolling Pin's regulator (E05, named E06)
+- **Kesher** — kite glider · Eryn's overnight guard · lost her · writes in a notebook (E06)
 
 ## Deceased
 
