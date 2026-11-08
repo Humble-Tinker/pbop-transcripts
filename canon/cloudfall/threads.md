@@ -6,8 +6,13 @@
 
 - **Doran's dream** — floating castles, a familiar roar, falling · first E01 · not touched since
 - **Journey's vision** — cold void, a distant blue-green planet, a familiar face, "Seek" · first E07 · deflects with the party, tells Poppy "maybe it was real" (E08)
+- **Doran's eyes** — under faerie fire: one a purple spinning ring, one blue flame · first E09
+- **The island shakes** — as the miners hear the club's bell · first E09
+- **The junior archivist's key** — hidden in the brush · first E09
+- **Kree** — Lor's great beast · first E09
+- **Hubert's offer** — Doran and Journey may give knowledge freely · first E09
 - **The old man** — fiend with a trace of celestial, dense like Bismyte, fascinated by the Feybuds · vanished · Hubert searching · first E08
-- **Guy the General** — Shred knew him on Lodom 10 years ago · first E08
+- **Guy the General** — Shred knew him on Lodom 10 years ago · first E08 · ordered the dam that drowned Mako; other memories end in 25, 71, 141 civilian deaths; says he has nothing to make up for (E09)
 - **Tower 25** — Guy's own account of his past · price too high, no one may pay for him · first E08
 - **Standoff with Shred** — Guy won't let a locked door stop him · Shred will enforce the rules · first E08
 - **Hubert's trust** — caught at Tower 13 on day one · first E08

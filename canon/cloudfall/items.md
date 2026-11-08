@@ -17,6 +17,10 @@
 - **Fiber field cake** — bran-and-fruit biscuit · resistance to nonmagical B/P/S, advantage on Str/Con saves and vs knockback/prone · Journey holds one (E07)
 - **Eryn's wooden carving** — two elven faces (E02)
 - **Natural echo bells** — a second pair, from April (E08)
+- **Latching echo bell** — third pair, from Mikey · Poppy holds one (E09)
+- **Guy's memory jar** — the Mako dam (E09)
+- **Junior archivist's key** — enchanted stone prism · opens Tower 25 · stolen by Eryn, hidden in brush (E09)
+- **Forget-me-not pin** — Poppy's, pinned to Guy's tea towel (E09)
 - **Saffron spice notes** — written by Mikey for Poppy (E08)
 
 ## Bismyte
@@ -50,3 +54,6 @@
 - **Saffron spices** — remove heat, add heat, remove salt (E08)
 - **Curses** — Vindorn stemmed the worst, didn't end them · Tower 13 sealed ~16 years · no one has come out (E08)
 - **Party level 4** (E08)
+- **Great beasts** — sentient, speak to each other, neither gods nor animals · Lor can call Kree (E09)
+- **Faerie fire** — traces magic like dye · revealed Doran's eyes: a purple spinning ring and a blue flame (E09)
+- **The upheaval** — Lodom's great exodus to Farewell (E09)

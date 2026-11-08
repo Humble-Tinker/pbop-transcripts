@@ -49,7 +49,7 @@
 | Mikey | Mikey (correct) | Tortle · Hubert's nephew and apprentice · terrible baker (E07) |
 | April | April (correct) | Tortle archivist · collects stories with drift weed (E07) |
 | Shred | Shred (correct) | Tortle · prime Lore Hunter · calls Guy "General" (E08) |
-| Tulley | — | Tortle gardener · bonsai · cloud kips trust him · not named on mic in E08 |
+| Tulley | Tully | Tortle gardener · bonsai · cloud kips trust him · not named on mic in E08 |
 | Ralphie | Ralphie (correct) | Tortle child · Mikey's friend (E08) |
 | Ralph · Donald · Leon | (correct) | Young tortles Hubert names (E08) |
 

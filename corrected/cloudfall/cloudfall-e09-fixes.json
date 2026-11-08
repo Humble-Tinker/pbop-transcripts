@@ -1,0 +1,431 @@
+{
+  "_note": "E09: Maggie and Hannah were both recorded on the 'Hannah / Eryn' channel (outro confirms); Maggie's cues split out by content from the full read. Mixed cues (both players in one cue) left on Hannah. speaker_map: 5 Tara; 2 and 7 are Tim's NPC voices (Hubert, Tulley, Mikey, Ralphie, the memory jar, the miners).",
+  "speaker_map": {
+    "Speaker 5": "Tara / Journey",
+    "Speaker 2": "Tim / GM",
+    "Speaker 7": "Tim / GM"
+  },
+  "speakers": {
+    "00:01:47.880": "Maggie / Poppy",
+    "00:03:14.810": "Maggie / Poppy",
+    "00:03:23.540": "Maggie / Poppy",
+    "00:03:31.525": "Maggie / Poppy",
+    "00:16:55.015": "Maggie / Poppy",
+    "00:17:04.320": "Maggie / Poppy",
+    "00:17:16.370": "Maggie / Poppy",
+    "00:18:16.160": "Maggie / Poppy",
+    "00:20:45.600": "Maggie / Poppy",
+    "00:22:32.975": "Maggie / Poppy",
+    "00:22:39.695": "Maggie / Poppy",
+    "00:24:42.720": "Maggie / Poppy",
+    "00:24:52.295": "Maggie / Poppy",
+    "00:26:44.605": "Maggie / Poppy",
+    "00:26:55.605": "Maggie / Poppy",
+    "00:27:02.405": "Maggie / Poppy",
+    "00:27:20.750": "Maggie / Poppy",
+    "00:27:31.995": "Maggie / Poppy",
+    "00:27:39.860": "Maggie / Poppy",
+    "00:28:20.095": "Maggie / Poppy",
+    "00:29:10.060": "Maggie / Poppy",
+    "00:29:24.360": "Maggie / Poppy",
+    "00:29:44.000": "Maggie / Poppy",
+    "00:29:52.215": "Maggie / Poppy",
+    "00:30:01.640": "Maggie / Poppy",
+    "00:30:21.045": "Maggie / Poppy",
+    "00:30:49.085": "Maggie / Poppy",
+    "00:31:29.300": "Maggie / Poppy",
+    "00:34:23.150": "Maggie / Poppy",
+    "00:34:43.870": "Maggie / Poppy",
+    "00:35:08.175": "Maggie / Poppy",
+    "00:35:23.935": "Maggie / Poppy",
+    "00:36:17.575": "Maggie / Poppy",
+    "00:37:34.275": "Maggie / Poppy",
+    "00:37:43.830": "Maggie / Poppy",
+    "00:37:59.095": "Maggie / Poppy",
+    "00:38:10.775": "Maggie / Poppy",
+    "00:38:55.365": "Maggie / Poppy",
+    "00:39:04.380": "Maggie / Poppy",
+    "00:40:52.765": "Maggie / Poppy",
+    "00:45:34.650": "Maggie / Poppy",
+    "00:51:38.195": "Maggie / Poppy",
+    "00:51:47.300": "Maggie / Poppy",
+    "00:55:29.585": "Maggie / Poppy",
+    "00:55:38.490": "Maggie / Poppy",
+    "00:55:53.215": "Maggie / Poppy",
+    "00:56:01.920": "Maggie / Poppy",
+    "00:56:08.695": "Maggie / Poppy",
+    "00:56:23.385": "Maggie / Poppy",
+    "00:56:36.515": "Maggie / Poppy",
+    "00:58:06.715": "Maggie / Poppy",
+    "00:58:29.940": "Maggie / Poppy",
+    "00:58:34.900": "Maggie / Poppy",
+    "00:59:07.740": "Maggie / Poppy",
+    "00:59:33.915": "Maggie / Poppy",
+    "00:59:56.120": "Maggie / Poppy",
+    "01:00:04.265": "Maggie / Poppy",
+    "01:00:07.385": "Maggie / Poppy",
+    "01:00:19.955": "Maggie / Poppy",
+    "01:00:37.075": "Maggie / Poppy",
+    "01:01:11.305": "Maggie / Poppy",
+    "01:01:56.150": "Maggie / Poppy",
+    "01:02:07.975": "Maggie / Poppy",
+    "01:02:24.725": "Maggie / Poppy",
+    "01:02:32.920": "Maggie / Poppy",
+    "01:02:41.005": "Maggie / Poppy",
+    "01:03:08.800": "Maggie / Poppy",
+    "01:03:20.905": "Maggie / Poppy",
+    "01:06:08.535": "Maggie / Poppy",
+    "01:11:31.540": "Maggie / Poppy",
+    "01:15:10.815": "Maggie / Poppy",
+    "01:15:15.440": "Maggie / Poppy",
+    "01:18:36.825": "Maggie / Poppy",
+    "00:12:14.490": "Tara / Journey",
+    "00:59:38.380": "Thomas / Guy",
+    "01:00:01.225": "Thomas / Guy",
+    "01:04:53.660": "John / Doran",
+    "00:41:06.050": "Thomas / Guy",
+    "00:35:02.030": "John / Doran",
+    "01:01:24.420": "Tim / GM",
+    "01:01:05.060": "Tim / GM",
+    "01:07:50.825": "Tim / GM",
+    "00:28:19.535": "John / Doran",
+    "01:03:12.825": "John / Doran"
+  },
+  "text": [
+    [
+      "00:00:04.560",
+      "lore, sipping tea",
+      "Lor, sipping tea"
+    ],
+    [
+      "00:04:41.345",
+      "fey beds",
+      "Feybuds"
+    ],
+    [
+      "00:03:48.075",
+      "looking at Trent",
+      "looking at Shred"
+    ],
+    [
+      "00:06:25.600",
+      "Thorin's going",
+      "Doran's going"
+    ],
+    [
+      "00:07:10.410",
+      "A shred got a 6",
+      "Shred got a 6"
+    ],
+    [
+      "00:08:14.375",
+      "Prime activist",
+      "Prime archivist"
+    ],
+    [
+      "00:09:01.355",
+      "pats a guy on",
+      "pats Guy on"
+    ],
+    [
+      "00:11:22.780",
+      "to poppy they're",
+      "to Poppy they're"
+    ],
+    [
+      "00:11:22.780",
+      "maybe Aran",
+      "maybe Eryn"
+    ],
+    [
+      "00:13:11.250",
+      "Jurney",
+      "Journey"
+    ],
+    [
+      "00:14:05.690",
+      "cloud kit",
+      "cloud kip"
+    ],
+    [
+      "00:14:43.485",
+      "behind Lem",
+      "behind them"
+    ],
+    [
+      "00:17:28.345",
+      "tell you, guy,",
+      "tell you, Guy,"
+    ],
+    [
+      "00:20:07.545",
+      "Churney looks",
+      "Journey looks"
+    ],
+    [
+      "00:21:56.550",
+      "around guys' situation",
+      "around Guy's situation"
+    ],
+    [
+      "00:22:15.990",
+      "Maki?",
+      "Mikey?"
+    ],
+    [
+      "00:23:20.710",
+      "Maki, do you",
+      "Mikey, do you"
+    ],
+    [
+      "00:23:20.710",
+      "what the press would be",
+      "what the price would be"
+    ],
+    [
+      "00:23:33.750",
+      "guys' memories",
+      "Guy's memories"
+    ],
+    [
+      "00:25:49.005",
+      "at all, rat.",
+      "at all, right."
+    ],
+    [
+      "00:27:49.935",
+      "Mikey, Shell",
+      "Mikey's shell"
+    ],
+    [
+      "00:30:56.840",
+      "CloudKip",
+      "cloud kip"
+    ],
+    [
+      "00:38:14.695",
+      "the 7th portal",
+      "the seven tortles"
+    ],
+    [
+      "00:39:13.665",
+      "driftwood",
+      "Driftweed"
+    ],
+    [
+      "00:39:30.335",
+      "memory that guy had",
+      "memory that Guy had"
+    ],
+    [
+      "00:40:03.685",
+      "The Ouran retelling",
+      "Your own retelling"
+    ],
+    [
+      "00:46:31.265",
+      "citadel in farewell",
+      "citadel in Farewell"
+    ],
+    [
+      "00:49:58.670",
+      "The guy is going",
+      "Guy is going"
+    ],
+    [
+      "00:54:39.925",
+      "Starling.",
+      "Startling."
+    ],
+    [
+      "00:54:49.510",
+      "Shredleaf",
+      "Shred leave"
+    ],
+    [
+      "00:58:13.450",
+      "Come, puppy.",
+      "Come, Poppy."
+    ],
+    [
+      "00:58:16.410",
+      "and a guy puts",
+      "and Guy puts"
+    ],
+    [
+      "00:59:13.155",
+      "pass that poppy",
+      "pass that, Poppy"
+    ],
+    [
+      "01:01:24.420",
+      "my gay.",
+      "Mikey."
+    ],
+    [
+      "01:02:36.200",
+      "It Bobby, where",
+      "Poppy, where"
+    ],
+    [
+      "01:03:18.185",
+      "get Mackie",
+      "get Mikey"
+    ],
+    [
+      "01:03:54.555",
+      "Hey, Mackie",
+      "Hey, Mikey"
+    ],
+    [
+      "01:05:18.285",
+      "An attorney gives",
+      "And Journey gives"
+    ],
+    [
+      "01:06:42.405",
+      "with you, Dora?",
+      "with you, Doran?"
+    ],
+    [
+      "01:06:52.860",
+      "And Dora's gonna",
+      "And Doran's gonna"
+    ],
+    [
+      "01:09:29.905",
+      "Journeys sits",
+      "Journey sits"
+    ],
+    [
+      "01:09:35.025",
+      "pull out my loot",
+      "pull out my lute"
+    ],
+    [
+      "01:11:16.390",
+      "echo belt",
+      "echo bell"
+    ],
+    [
+      "01:11:42.955",
+      "takes Doran's loot",
+      "takes Doran's lute"
+    ],
+    [
+      "01:12:40.210",
+      "for the very fire",
+      "for the fairy fire"
+    ],
+    [
+      "01:17:11.050",
+      "the my minors",
+      "the miners"
+    ],
+    [
+      "01:17:48.330",
+      "Bizbite",
+      "Bismyte"
+    ],
+    [
+      "00:05:12.850",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:09:12.110",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:12:06.025",
+      "Tully",
+      "Tulley"
+    ],
+    [
+      "00:12:09.705",
+      "Tully",
+      "Tulley"
+    ],
+    [
+      "00:13:20.195",
+      "Tully",
+      "Tulley"
+    ],
+    [
+      "00:13:57.695",
+      "Tully",
+      "Tulley"
+    ],
+    [
+      "00:14:43.485",
+      "Tully",
+      "Tulley"
+    ],
+    [
+      "00:17:53.100",
+      "turtles",
+      "tortles"
+    ],
+    [
+      "00:20:29.160",
+      "turtles",
+      "tortles"
+    ],
+    [
+      "00:21:27.495",
+      "turtles",
+      "tortles"
+    ],
+    [
+      "00:23:11.125",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:26:05.135",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:31:40.455",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:31:54.935",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:32:49.155",
+      "turtles",
+      "tortles"
+    ],
+    [
+      "00:33:11.335",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:56:57.375",
+      "turtles",
+      "tortles"
+    ],
+    [
+      "01:06:19.070",
+      "turtles",
+      "tortles"
+    ],
+    [
+      "01:11:16.390",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "01:11:42.955",
+      "turtles",
+      "tortles"
+    ]
+  ]
+}

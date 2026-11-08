@@ -16,6 +16,8 @@
 ## Elsewhere
 - **Dawn's Edge** — western city · home of the Tack guild, builders of the Heavenly Feather (E01, E05)
 - **Lodom**, **Cilivry** — guilds / homelands with Break Day flagships (E01)
+- **Lodom** — lost its best people to Farewell ("the traitor's citadel") after the upheaval · flood plains (E09)
+- **Mako** — river village near Lodom · drowned by Guy's dam (E09 · memory)
 - **Lamplight Landing** — where Yarhar nearly died (E05 · mentioned)
 - **Vindorn** — great mountain where the worst of the world's curses were stemmed, long ago (E08 · mentioned · spelling unconfirmed)
 
@@ -27,6 +29,8 @@
   - **Warming house** — guest house, four rooms · **April's hut** — the story circle (E07)
   - **Tower 13** — east end in a cliff's shadow · ~10 ft above ground, nearly all underground · echo bell alarm on the door · chalk door outline on the back (E08)
   - **Tower 25** — war, torture, crime, atrocities · Guy's records in advanced storage (E08)
+  - **Tower 33** — unlocked · seven floors of jars, purpose unknown · basement dance club, 100+ latched echo bells (E09)
+  - **Caves** under the island, where cloud water drips onto echo-bell drums · **Bismyte mines**, much of it dead (E09)
   - **West slope** — tall-grass hill near the edge · **bonsai garden** in the low juniper grove · **dining hut** of stone with a mossy roof (E08)
 - **Saffron** — food-famous skyland · Poppy's goal (E04)
 - **High Shire** — halfling-only skyland (E05)

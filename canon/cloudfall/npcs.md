@@ -81,24 +81,29 @@
 ### Heavenly Feather crew
 - Young elf singer · old medic (E05)
 - **Chef Bowie** — bullywug chef (E05, named E06) · ex-bar cook · gave Poppy a spell-catching ladle (E07)
+- **The miners** — five crew left on Lor (E07) · finding dead Bismyte · heard through a Tower 33 echo bell (E09)
 - **DeWalter** and **Makeda** — engineers · removed the Rolling Pin's regulator (E05, named E06)
 - **Kesher** — kite glider · Eryn's overnight guard · lost her · writes in a notebook (E06)
 
 ### Hubert
 - Tortle prime archivist of the Isle of Lor · formal, dry · points Journey to Tower 12 · forbids Tower 13 (E07)
+- Wears a charm against being fooled · released one of Guy's memories · removed April from memory capture · Lor's rules came from giving freely and getting little back (E09)
 - Dismissed Journey's old man, then ordered a search and apologized · called Poppy "an angel unto this island" · caught Doran and Guy at Tower 13 via its echo bell · insists on "Hubert," not "Huber" · no one may pay for another's knowledge (E08)
 - **Status: distrusts Doran and Guy (E08)**
 
 ### Mikey
 - Tortle · Hubert's nephew and apprentice · may not be spoken to · terrible baker (E07)
+- Junior archivist's key stolen by Eryn · gave Poppy a latching echo bell · ate the Rolling Pin's chocolate (E09)
 - Allowed to talk to Poppy · loves bright bulb soup · wrote down the Saffron spices · last had chocolate 4 years ago (E08)
 
 ### April
 - Tortle archivist · collects stories with Driftweed and story jars (E07)
+- Removed from memory capture · Eryn confessed the impersonation (E09)
 - 37, never left Lor · leads the six minutes · gave the party wild echo bells · impersonated by Eryn at Tower 13 (E08)
 
 ### Shred
 - Tortle · prime Lore Hunter · large, gruff · met Guy 10 years ago on Lodom and calls him "General" · knows Guy's records are in Tower 25 (E08)
+- Bo staff · calmed by Doran · "if we catch you again, we're not gonna talk" (E09)
 - **Status: vowed to enforce Lor's rules against Guy (E08)**
 
 ### The old man
@@ -107,8 +112,14 @@
 - **Status: unknown · Hubert's people searching (E08)**
 
 ### Lor tortles
+- **Tulley** — carries the island's whistle; Kree answers his call · broke up the standoff (E09)
 - **Tulley** — gardener · largest tortle seen · prunes the bonsai garden · cloud kips trust him (E08)
 - **Ralphie** — child · Mikey's friend · Hubert also names Ralph, Donald, and Leon (E08)
+- **Ralphie, Donald, Leon, Mikey** — run a secret dance club in Tower 33's basement · Leon built the echo-bell drum network (E09)
+
+### Kree
+- Great beast · titanic bird the size of a sky ship · iridescent cyan-and-magenta tail · answers Tulley's whistle (E09)
+
 
 ## Deceased
 
