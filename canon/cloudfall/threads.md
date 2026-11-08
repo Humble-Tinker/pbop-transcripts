@@ -5,12 +5,20 @@
 ## Open
 
 - **Doran's dream** — floating castles, a familiar roar, falling · first E01 · not touched since
-- **Journey's vision** — cold void, a distant blue-green planet, a familiar face, "Seek" · first E07
+- **Journey's vision** — cold void, a distant blue-green planet, a familiar face, "Seek" · first E07 · deflects with the party, tells Poppy "maybe it was real" (E08)
+- **The old man** — fiend with a trace of celestial, dense like Bismyte, fascinated by the Feybuds · vanished · Hubert searching · first E08
+- **Guy the General** — Shred knew him on Lodom 10 years ago · first E08
+- **Tower 25** — Guy's own account of his past · price too high, no one may pay for him · first E08
+- **Standoff with Shred** — Guy won't let a locked door stop him · Shred will enforce the rules · first E08
+- **Hubert's trust** — caught at Tower 13 on day one · first E08
+- **Cloud kip** — Eryn wants one (a black one) · the gardener can call them · first E08
+- **The whale** — brings Lor its sweets · first E08
+- **Doran's Fey Touched story** — "may come up" · first E08
 - **Diver** — escaped by engineless Bismyte flight E02 · at large · Libera handling him (E04)
 - **Doran and Diver** — Doran says Diver was involved in "what happened to him" (E03) · "He took a lot from me" · promised to tell the story (E07)
 - **A larger network** — Doran: Diver isn't at the top (E07)
 - **Guy's hunter** — a former companion swore to hunt him (E03)
-- **Guy's curse** — records are in Tower 13, sealed after a "great sacrifice" · Guy remembers almost nothing of his life before he died · gold burns him (E07)
+- **Guy's curse** — records are in Tower 13, sealed after a "great sacrifice" · Guy remembers almost nothing of his life before he died · gold burns him (E07) · Tower 13 sealed ~16 years, chalk door outline on the back, echo bell alarm (E08)
 - **Tower 12** — fey magic · Hubert insists Journey go (E07)
 - **Guy and the Blade of Lodom** — uncanny fit (E04)
 - **"It happened again"** — Guy's head has come off before (E02)

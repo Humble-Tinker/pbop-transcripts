@@ -1,0 +1,236 @@
+{
+  "_note": "E08: Transistor emitted generic 'Speaker N' channels; speaker_map assigned from the full read and the outro self-introductions (4 Tara, 7 Thomas, 8 Maggie, 10 Hannah; 2/6/11 are Tim's NPC voices: Hubert, April, Mikey, the old man, the gardener, Ralphie; 9 is a one-cue Tara fragment). Per-cue overrides fix crosstalk splits. Huber/Hubert kept as spoken in the 01:10 exchange, where the mispronunciation is the joke.",
+  "speaker_map": {
+    "Speaker 4": "Tara / Journey",
+    "Speaker 7": "Thomas / Guy",
+    "Speaker 8": "Maggie / Poppy",
+    "Speaker 10": "Hannah / Eryn",
+    "Speaker 2": "Tim / GM",
+    "Speaker 6": "Tim / GM",
+    "Speaker 11": "Tim / GM",
+    "Speaker 9": "Tara / Journey"
+  },
+  "speakers": {
+    "00:04:08.765": "Tara / Journey",
+    "00:07:45.875": "Tara / Journey",
+    "00:15:40.860": "Hannah / Eryn",
+    "00:17:52.175": "John / Doran",
+    "00:20:40.945": "Maggie / Poppy",
+    "00:22:00.930": "Tara / Journey",
+    "00:41:26.840": "Maggie / Poppy",
+    "00:41:57.085": "Hannah / Eryn",
+    "00:46:52.470": "Maggie / Poppy",
+    "00:52:40.710": "Tim / GM",
+    "00:58:35.080": "John / Doran",
+    "01:07:14.180": "Maggie / Poppy",
+    "01:10:35.190": "John / Doran",
+    "01:18:05.025": "Thomas / Guy"
+  },
+  "text": [
+    [
+      "00:00:00.880",
+      "landed at lower",
+      "landed at Lor"
+    ],
+    [
+      "00:00:00.880",
+      "The torto living",
+      "The tortle living"
+    ],
+    [
+      "00:04:41.165",
+      "Torin, don't pry",
+      "Doran, don't pry"
+    ],
+    [
+      "00:07:52.360",
+      "the cloud, Kip",
+      "the cloud kip"
+    ],
+    [
+      "00:08:06.185",
+      "get a cloud chip",
+      "get a cloud kip"
+    ],
+    [
+      "00:08:24.445",
+      "catch our own class gifts",
+      "catch our own cloud kips"
+    ],
+    [
+      "00:08:52.945",
+      "Lore is especially rich",
+      "Lor is especially rich"
+    ],
+    [
+      "00:10:15.750",
+      "Echo Wells",
+      "echo bells"
+    ],
+    [
+      "00:11:43.670",
+      "plus 1 ammo handling",
+      "plus 1 animal handling"
+    ],
+    [
+      "00:14:28.555",
+      "on lore",
+      "on Lor"
+    ],
+    [
+      "00:16:59.565",
+      "silvery barbs",
+      "Silvery Barbs"
+    ],
+    [
+      "00:17:19.860",
+      "Enhanceability",
+      "Enhance Ability"
+    ],
+    [
+      "00:17:37.465",
+      "Fey touch",
+      "Fey Touched"
+    ],
+    [
+      "00:17:46.415",
+      "misty stuff",
+      "Misty Step"
+    ],
+    [
+      "00:17:52.175",
+      "the feet",
+      "the feat"
+    ],
+    [
+      "00:19:43.300",
+      "Puppy, go ahead",
+      "Poppy, go ahead"
+    ],
+    [
+      "00:19:45.860",
+      "the chef eat",
+      "the Chef feat"
+    ],
+    [
+      "00:21:26.160",
+      "thornwhip",
+      "Thorn Whip"
+    ],
+    [
+      "00:21:51.825",
+      "into decks",
+      "into Dex"
+    ],
+    [
+      "00:22:11.435",
+      "into decks",
+      "into Dex"
+    ],
+    [
+      "00:22:45.320",
+      "that feet",
+      "that feat"
+    ],
+    [
+      "00:25:34.660",
+      "the cloud, Kip",
+      "the cloud kip"
+    ],
+    [
+      "00:30:33.730",
+      "Fay buds",
+      "Feybuds"
+    ],
+    [
+      "00:31:04.190",
+      "the feybuds",
+      "the Feybuds"
+    ],
+    [
+      "00:31:04.190",
+      "Those feybuds",
+      "Those Feybuds"
+    ],
+    [
+      "00:34:21.685",
+      "fay buds",
+      "Feybuds"
+    ],
+    [
+      "00:38:02.645",
+      "cloud gyp",
+      "cloud kip"
+    ],
+    [
+      "00:38:54.790",
+      "Cloud Kipps",
+      "Cloud kips"
+    ],
+    [
+      "00:39:01.270",
+      "cloud Kipp",
+      "cloud kip"
+    ],
+    [
+      "00:45:41.790",
+      "Cloud Kipa",
+      "cloud kip"
+    ],
+    [
+      "00:49:55.275",
+      "from saffron",
+      "from Saffron"
+    ],
+    [
+      "00:49:57.470",
+      "from saffron",
+      "from Saffron"
+    ],
+    [
+      "00:51:32.065",
+      "saffron spices",
+      "Saffron spices"
+    ],
+    [
+      "01:05:42.855",
+      "brat bulbs",
+      "bright bulbs"
+    ],
+    [
+      "01:10:12.750",
+      "Abby is just",
+      "Poppy is just"
+    ],
+    [
+      "01:10:22.325",
+      "called me Hubert",
+      "called me Huber"
+    ],
+    [
+      "01:10:29.590",
+      "it's just Hubert. Hubert.",
+      "it's just Huber. Huber."
+    ],
+    [
+      "01:10:36.070",
+      "Sorry. Hubert.",
+      "Sorry. Huber."
+    ],
+    [
+      "01:16:28.790",
+      "recipes of saffron",
+      "recipes of Saffron"
+    ],
+    [
+      "00:09:08.310",
+      "mind more resources",
+      "mine more resources"
+    ],
+    [
+      "00:23:40.400",
+      "by Arryn",
+      "by Eryn"
+    ]
+  ]
+}

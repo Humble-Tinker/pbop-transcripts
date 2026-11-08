@@ -17,6 +17,7 @@
 - **Dawn's Edge** — western city · home of the Tack guild, builders of the Heavenly Feather (E01, E05)
 - **Lodom**, **Cilivry** — guilds / homelands with Break Day flagships (E01)
 - **Lamplight Landing** — where Yarhar nearly died (E05 · mentioned)
+- **Vindorn** — great mountain where the worst of the world's curses were stemmed, long ago (E08 · mentioned · spelling unconfirmed)
 
 ## Skylands & the clouds
 - **Isle of Lor** — destination · in Lower Cumula · cluster of floating basalt-column islands joined by rope bridges, lower half in permanent cloud (E03–E06)
@@ -24,6 +25,9 @@
   - 119 basalt towers, each a library on one subject, all the same height but shifted up or down (E07)
   - **Tower 12** — fey magic · **Tower 13** — curses, sealed, low on the east end · **Tower 96** — plants and food (E07)
   - **Warming house** — guest house, four rooms · **April's hut** — the story circle (E07)
+  - **Tower 13** — east end in a cliff's shadow · ~10 ft above ground, nearly all underground · echo bell alarm on the door · chalk door outline on the back (E08)
+  - **Tower 25** — war, torture, crime, atrocities · Guy's records in advanced storage (E08)
+  - **West slope** — tall-grass hill near the edge · **bonsai garden** in the low juniper grove · **dining hut** of stone with a mossy roof (E08)
 - **Saffron** — food-famous skyland · Poppy's goal (E04)
 - **High Shire** — halfling-only skyland (E05)
 - **Cloud strata** — regular atmosphere · Upper Cumula · Lower Cumula · Null Substrata (E05)

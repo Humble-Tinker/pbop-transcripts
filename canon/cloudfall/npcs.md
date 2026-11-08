@@ -86,12 +86,29 @@
 
 ### Hubert
 - Tortle prime archivist of the Isle of Lor · formal, dry · points Journey to Tower 12 · forbids Tower 13 (E07)
+- Dismissed Journey's old man, then ordered a search and apologized · called Poppy "an angel unto this island" · caught Doran and Guy at Tower 13 via its echo bell · insists on "Hubert," not "Huber" · no one may pay for another's knowledge (E08)
+- **Status: distrusts Doran and Guy (E08)**
 
 ### Mikey
 - Tortle · Hubert's nephew and apprentice · may not be spoken to · terrible baker (E07)
+- Allowed to talk to Poppy · loves bright bulb soup · wrote down the Saffron spices · last had chocolate 4 years ago (E08)
 
 ### April
 - Tortle archivist · collects stories with Driftweed and story jars (E07)
+- 37, never left Lor · leads the six minutes · gave the party wild echo bells · impersonated by Eryn at Tower 13 (E08)
+
+### Shred
+- Tortle · prime lore hunter · large, gruff · met Guy 10 years ago on Lodom and calls him "General" · knows Guy's records are in Tower 25 (E08)
+- **Status: vowed to enforce Lor's rules against Guy (E08)**
+
+### The old man
+- Looks like an extremely old human · nearly bald, pale, piercing blue eyes, brown-green robe · delayed, echoing speech · fascinated by the Feybuds (E08)
+- Dense with magic like Bismyte · Primeval Awareness: fiend with a trace of celestial · vanished when Hubert arrived (E08)
+- **Status: unknown · Hubert's people searching (E08)**
+
+### Lor tortles
+- **The gardener** — unnamed · largest tortle seen · prunes the bonsai garden · cloud kips trust him (E08)
+- **Ralphie** — child · Mikey's friend · Hubert also names Ralph, Donald, and Leon (E08)
 
 ## Deceased
 

@@ -16,6 +16,8 @@
 - **Chef Bowie's ladle** — pewter · catches small spells and flings them back · Poppy (E07)
 - **Fiber field cake** — bran-and-fruit biscuit · resistance to nonmagical B/P/S, advantage on Str/Con saves and vs knockback/prone · Journey holds one (E07)
 - **Eryn's wooden carving** — two elven faces (E02)
+- **Natural echo bells** — a second pair, from April (E08)
+- **Saffron spice notes** — written by Mikey for Poppy (E08)
 
 ## Bismyte
 - Chargeable metal · color = charge, red weakest to violet strongest (E02)
@@ -40,3 +42,11 @@
 - **Dullahan** — body works while the head can see it · gold burns Guy (E07)
 - **Bismyte on Lor** — keeps the island afloat · taken for granted · now being mined (E07)
 - **Cookie economy** — GM ruling: 1 gold = 10 cookies (E07)
+- **Echo bells, natural** — snail shells that pair by frequency and stay entangled · the party's first pair was forced by magic (E08)
+- **Bright bulbs** — floating jellyfish · salty soup · **cloud kips** — glide-tailed cat-squirrels, never tamed, taboo to harm (E08)
+- **Skylands** — every one held aloft by Bismyte · Lor can float another 10,000 years (E08)
+- **The six minutes** — Lor's daily bell for doing nothing · **lore hunters** — tortles sent out for knowledge · ~50 tortles on Lor · **the whale** brings sweets every couple of months (E08)
+- **Paying in knowledge** — no one may pay for another (E08)
+- **Saffron spices** — remove heat, add heat, remove salt (E08)
+- **Curses** — Vindorn stemmed the worst, didn't end them · Tower 13 sealed ~16 years · no one has come out (E08)
+- **Party level 4** (E08)

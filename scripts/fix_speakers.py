@@ -8,9 +8,14 @@ Second correction pass: tag every cue and apply the episode's reviewed fixes.
    during the read is recorded and auditable:
 
     {
+      "speaker_map": {"Speaker 4": "Tara / Journey"},
       "speakers": {"00:12:05.330": "Maggie / Poppy"},
       "text": [["01:33:20.035", "Aim for flesh", "In the flesh"]]
     }
+
+   "speaker_map" (optional) renames generic channels Transistor sometimes emits
+   ("Speaker 4") to player labels before the per-cue "speakers" overrides apply.
+   Any generic "Speaker N" label left unmapped stops the script.
 
    Keys are cue start timestamps exactly as they appear in the VTT. A text fix
    must match inside that cue or the script stops, so nothing silently misses.
@@ -36,6 +41,7 @@ def main():
     a = ap.parse_args()
 
     fixes = json.loads(pathlib.Path(a.fixes).read_text()) if a.fixes else {}
+    spk_map = dict(fixes.get("speaker_map", {}))
     spk_fix = dict(fixes.get("speakers", {}))
     txt_fix = {}
     for ts, old, new in fixes.get("text", []):
@@ -53,6 +59,7 @@ def main():
         body = " ".join(lines[ts_i + 1:]).strip()
         m = VOICE.match(body)
         spk, text = (m.group(1).strip(), m.group(2).strip()) if m else (last, body)
+        spk = spk_map.get(spk, spk)
         if start in spk_fix:
             spk = spk_fix[start]
             applied_s.add(start)
@@ -64,6 +71,9 @@ def main():
         last = spk
         out += ["", ts_line, f"<v {spk}>{text}"]
 
+    generic = sorted({l.split(">")[0][3:] for l in out if l.startswith("<v Speaker ")})
+    if generic:
+        sys.exit(f"unmapped generic speaker channels: {generic}")
     missing = set(spk_fix) - applied_s
     if missing:
         sys.exit(f"speaker fixes with no matching cue: {sorted(missing)}")
