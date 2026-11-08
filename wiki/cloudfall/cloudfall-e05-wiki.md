@@ -221,7 +221,7 @@ The Blight trio of Mercy, Ribbo, and Derringer close in on the Rolling Pin outsi
 - **Eryn caught** — Yarhar is sitting in the office she meant to search *(cliffhanger)*
 - **Mercy's blood** — in a jar · a way to track Mercy, and possibly Diver
 - **Mercy's vendetta** — wounded, furious, promised Journey will remember her
-- **The Tack vs. the Heavenly Feather** — E03–E04 named the Tack; the party boards the Heavenly Feather *(flag for Tim)*
+- **The Tack** — confirmed: the Tack is the Dawn's Edge guild; the Heavenly Feather is its ship
 - **Phynom's true face** — scars and blades under the illusion; history unknown *(first occurrence)*
 - **The Rolling Pin's regulator** — removed without Poppy's knowledge
 - **The burly crew** — some sailors don't seem to know their jobs
@@ -264,4 +264,4 @@ The Blight trio of Mercy, Ribbo, and Derringer close in on the Rolling Pin outsi
 | Isle of Lor | Isle of Lhor |
 | Doran | Doren · Dorn · Dharma/Dorma (Poppy calling him, left as-is) |
 | Lamplight Landing | Lamplight Landing (correct — new, watch future episodes) |
-| Firbolg? | "fur bolt" at 00:10:14 ("Meet the fur bolt") · speaker and meaning unclear, left as-is |
+| Firbolg | fur bolt ("Meet the Firbolg", confirmed by Tim) |

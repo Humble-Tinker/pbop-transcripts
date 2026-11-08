@@ -5,7 +5,7 @@
 
 ## Full Summary
 
-The last morning aboard the Heavenly Feather turns into a breakfast rush at the Rolling Pin: Guy parks his detached head by the oven window to watch the trays while his body works, Poppy sells about 50 gold of cookies to the crew, gives Journey a protective fiber field cake and Rolan a saved maple cookie, and receives a spell-catching pewter ladle from Chef Bowie by way of Captain Yarhar, who reveals the party's passage wasn't free; someone paid. The ship lands on a moss field on the Isle of Lor. Yarhar tells Eryn plainly that he doesn't trust her and has two burly sailors walk her off; Rolan warns the party there is a lot happening in the clouds right now and stays aboard. The tortle prime archivist **Hubert** and his nephew **Mikey** greet them with an inedible cauliflower birthday cake. Lor holds 119 natural basalt towers, each a library on one subject. Knowledge can't be bought with gold, only with knowledge: the archivists record spoken stories in smoke-filled jars that turn white for truth, black for known lies, and gray for fiction, and pay for them in "chapters." Tower 12 holds fey magic; Tower 13, the curses tower, is sealed after a "great sacrifice," and entering it likely means death. Five Heavenly Feather crew stay behind to mine the island's Bismyte, which Lor's people have always taken for granted. The archivist **April** gathers the party in a dark, incense-filled hut and, under drift weed, their stories play out as shared flashbacks: Doran recruiting Poppy and Guy, and catching Eryn robbing the Rolling Pin; Poppy and Guy's first meeting and the brigands who knocked Guy's head off; and Eryn luring Journey away from the Blight's door. Journey's memory doesn't end. She falls into a cold void above a distant blue-green planet, sees a face she hasn't seen in a long time, and hears one word: *"Seek."*
+The last morning aboard the Heavenly Feather turns into a breakfast rush at the Rolling Pin: Guy parks his detached head by the oven window to watch the trays while his body works, Poppy sells about 50 gold of cookies to the crew, gives Journey a protective Fiber Field Cake and Rolan a saved maple cookie, and receives a spell-catching pewter ladle from Chef Bowie by way of Captain Yarhar, who reveals the party's passage wasn't free; someone paid. The ship lands on a moss field on the Isle of Lor. Yarhar tells Eryn plainly that he doesn't trust her and has two burly sailors walk her off; Rolan warns the party there is a lot happening in the clouds right now and stays aboard. The tortle prime archivist **Hubert** and his nephew **Mikey** greet them with an inedible cauliflower birthday cake. Lor holds 119 natural basalt towers, each a library on one subject. Knowledge can't be bought with gold, only with knowledge: the archivists record spoken stories in smoke-filled jars that turn white for truth, black for known lies, and gray for fiction, and pay for them in "chapters." Tower 12 holds fey magic; Tower 13, the curses tower, is sealed after a "great sacrifice," and entering it likely means death. Five Heavenly Feather crew stay behind to mine the island's Bismyte, which Lor's people have always taken for granted. The archivist **April** gathers the party in a dark, incense-filled hut and, under Driftweed, their stories play out as shared flashbacks: Doran recruiting Poppy and Guy, and catching Eryn robbing the Rolling Pin; Poppy and Guy's first meeting and the brigands who knocked Guy's head off; and Eryn luring Journey away from the Blight's door. Journey's memory doesn't end. She falls into a cold void above a distant blue-green planet, sees a face she hasn't seen in a long time, and hears one word: *"Seek."*
 
 ---
 
@@ -21,7 +21,7 @@ The last morning aboard the Heavenly Feather turns into a breakfast rush at the 
 
 - **Gifts**
   - Rolan hovers shyly near Journey · he really wants a cookie
-  - Poppy gives Journey a **fiber field cake** made especially for her (see Lore)
+  - Poppy gives Journey a **Fiber Field Cake** made especially for her (see Lore)
   - Rolan gets a saved chewy maple cookie · wraps it in a napkin to save it
 
 - **Yarhar's turnover**
@@ -103,7 +103,7 @@ The last morning aboard the Heavenly Feather turns into a breakfast rush at the 
 - **April's hut**
   - April, older than Mikey, younger than Hubert · walks agonizingly slowly
   - A dark, warm, curtained hut deep in the island · pillows in a circle · a jar held over a candle
-  - A pinch of **drift weed** burned as incense · *"It just makes you a little chatty"*
+  - A pinch of **Driftweed** burned as incense · *"It just makes you a little chatty"*
   - Doran goes first · white smoke
 
 - **Doran's story: the recruiting**
@@ -122,7 +122,7 @@ The last morning aboard the Heavenly Feather turns into a breakfast rush at the 
 *(01:10 – 01:19)*
 
 - **How they met**
-  - Poppy dropped out of the Tower of Magic in Teledry to start a mobile bakery
+  - Poppy dropped out of the Tower of Magic in Tildry to start a mobile bakery
   - She caught Guy stealing cooling bread · made him work it off · he hadn't eaten in days
 
 - **The brigands**
@@ -173,7 +173,7 @@ The last morning aboard the Heavenly Feather turns into a breakfast rush at the 
 - Shows the crew the mining equipment · *"This might."*
 
 ### April *(new)*
-- **Tortle** archivist · older than Mikey · slow, kind · collects stories with drift weed and story jars
+- **Tortle** archivist · older than Mikey · slow, kind · collects stories with Driftweed and story jars
 - Would not interrupt Journey's trance
 
 ### Captain Yarhar *(updated)*
@@ -188,7 +188,7 @@ The last morning aboard the Heavenly Feather turns into a breakfast rush at the 
 - Sent Poppy a spell-catching pewter ladle via Yarhar · used to work in bars
 
 ### The brigands *(new · flashback)*
-- Two highwaymen who robbed the Rolling Pin before the campaign · the big one, named "Mancy" (later "Nancy" at the table), was killed by Guy · the small one fled shouting "Monster"
+- Two highwaymen who robbed the Rolling Pin before the campaign · the big one, **Mancy**, was killed by Guy · the small one fled shouting "Monster"
 
 ### Lob *(flashback)*
 - Slammed the Blight's door on Journey before E01
@@ -204,7 +204,7 @@ The last morning aboard the Heavenly Feather turns into a breakfast rush at the 
 - **The warming house** — hexagonal cobblestone guest house · four rooms · free for honored guests
 - **April's hut** — dark, curtained, incense-filled · the story circle
 
-### Teledry *(updated)*
+### Tildry *(updated)*
 - Poppy's Tower of Magic, which she dropped out of
 
 ---
@@ -220,7 +220,7 @@ The last morning aboard the Heavenly Feather turns into a breakfast rush at the 
 - White: true · black: a falsehood the teller knows · gray: fiction
 - Drift weed incense makes tellers chatty · listeners can be pulled into the memory
 
-### The fiber field cake *(new)*
+### The Fiber Field Cake *(new)*
 - Poppy's dense bran-and-dried-fruit biscuit, made for Journey
 - Resistance to nonmagical bludgeoning, piercing, and slashing · advantage on Strength and Constitution saves and against knockback and prone
 
@@ -283,10 +283,10 @@ The last morning aboard the Heavenly Feather turns into a breakfast rush at the 
 | April | April (confirmed Sept) |
 | Libera | Labira |
 | Isle of Lor | Laura · "on Lore" |
-| Teledry | Toldry · spelling still unconfirmed (E06 heard "Teledry") |
+| Tildry | Toldry · Teledry (confirmed by Tim) |
 | basalt | basil |
-| Doran | Dolan · "Quinn" at 01:08:42 (left as-is, unclear) |
+| Doran / Eryn | Dolan → Doran · "Quinn" at 01:08:42 → Eryn (confirmed by Tim) |
 | Chef Bowie | Chef Bo |
-| fiber field cake | fiber field cake (new · spelling unconfirmed: "Fiberfield"?) |
-| drift weed | drift weed (new · correct as heard?) |
-| Mancy / Nancy | the flashback brigand · Tim said "Mancy," the table settled on "Nancy" · which is canon? |
+| Fiber Field Cake | fiber field cake (confirmed by Tim) |
+| Driftweed | drift weed (confirmed by Tim) |
+| Mancy | Nancy · Yancey are table riffs; Mancy is canon (confirmed by Tim) |

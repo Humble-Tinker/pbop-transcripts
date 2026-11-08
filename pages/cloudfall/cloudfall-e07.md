@@ -1274,7 +1274,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Tim / GM:** April is kind and good with
 
-**Tim / GM:** the drift weed. She'll be able to get your stories.
+**Tim / GM:** the Driftweed. She'll be able to get your stories.
 
 **Tim / GM:** Let me know when you're ready.
 
@@ -1472,7 +1472,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **John / Doran:** Could I have one too? I'm kidding. It's fine. We'll share it.
 
-**Tim / GM:** Yes. Thank you. Okay. Now what are your tolerances for the drift weed?
+**Tim / GM:** Yes. Thank you. Okay. Now what are your tolerances for the Driftweed?
 
 **Tara / Journey:** I would assume none.
 
@@ -1504,7 +1504,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Tim / GM:** She reaches in and lights the candle that is sitting beneath that wooden jar, And it begins to burn. A white smoke.
 
-**John / Doran:** Do I have any of the drift weed?
+**John / Doran:** Do I have any of the Driftweed?
 
 **Tim / GM:** Oh, sorry. It's just like in the air. Oh, it's incense. Yeah.
 
@@ -1680,7 +1680,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Hannah / Eryn:** Eryn just pauses for a long time and then says, alright. I'm in.
 
-**John / Doran:** Listen, Quinn, just as a sign of goodwill, I mean it. He took a lot from me. I want this to hurt. And I gave, Eryn 10 gold and, looked down at the city below. Maybe at the Drip Sipper in a week.
+**John / Doran:** Listen, Eryn, just as a sign of goodwill, I mean it. He took a lot from me. I want this to hurt. And I gave, Eryn 10 gold and, looked down at the city below. Maybe at the Drip Sipper in a week.
 
 **Hannah / Eryn:** Eryn nods and then jumps off the edge of the roof and breaks their neck. Assassin's Creed style lands
 
@@ -1710,7 +1710,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Tim / GM:** Perfect.
 
-**Maggie / Poppy:** Okay. So I attended the Tower of Magic in Teledry, and then dropped out because, I wanted to start a mobile bakery, and I put all of my money into that. And one day, I caught Guy trying to steal bread off the back of my cart. It was cooling in the the sill and, I told him, stop right there. You don't take what's not yours.
+**Maggie / Poppy:** Okay. So I attended the Tower of Magic in Tildry, and then dropped out because, I wanted to start a mobile bakery, and I put all of my money into that. And one day, I caught Guy trying to steal bread off the back of my cart. It was cooling in the the sill and, I told him, stop right there. You don't take what's not yours.
 
 **Maggie / Poppy:** And instead, I made him work for me to pay it off. Right, Guy?
 
@@ -1790,19 +1790,19 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Maggie / Poppy:** K. K.
 
-**Thomas / Guy:** Well, let's say Yancey turns around to lead.
+**Thomas / Guy:** Well, let's say Mancy turns around to lead.
 
-**Tara / Journey:** Hey, Yancey.
+**Tara / Journey:** Hey, Mancy.
 
-**Thomas / Guy:** What's his name? Nancy. Nancy.
+**Thomas / Guy:** What's his name? Mancy. Mancy.
 
 **Maggie / Poppy:** The other guy is Yancy.
 
-**Tara / Journey:** No. Nancy and Nancy.
+**Tara / Journey:** No. Mancy and Mancy.
 
-**Thomas / Guy:** Let's say Nancy turns around to leave and then Guy grabs onto his back.
+**Thomas / Guy:** Let's say Mancy turns around to leave and then Guy grabs onto his back.
 
-**Tim / GM:** Yep. Nancy is taking a lumbering stroll away from you, back toward his buddy to kind of count up the gold. And he says,
+**Tim / GM:** Yep. Mancy is taking a lumbering stroll away from you, back toward his buddy to kind of count up the gold. And he says,
 
 **Tim / GM:** what did we get?
 
@@ -1820,7 +1820,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Tim / GM:** Do you wanna kill this guy? Yeah. Okay. Let's do it. Yeah.
 
-**Tim / GM:** You bring down a large sword. Not the Greatblade of Lodom, but a large sword. It hacks into Nancy a good deal, about halfway. It gets stuck, which is always a pain in the ass to have to shuck them off of your sword after they fall. But he does, and all that's left is the pint sized man that came with him.
+**Tim / GM:** You bring down a large sword. Not the Greatblade of Lodom, but a large sword. It hacks into Mancy a good deal, about halfway. It gets stuck, which is always a pain in the ass to have to shuck them off of your sword after they fall. But he does, and all that's left is the pint sized man that came with him.
 
 **Maggie / Poppy:** Oh my gosh. What is happening?
 

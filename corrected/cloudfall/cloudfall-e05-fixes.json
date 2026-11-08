@@ -17,11 +17,40 @@
     "01:14:05.100": "Tim / GM"
   },
   "text": [
-    ["00:12:42.835", "Phynom Rollins down", "Phynom, Rolan's down"],
-    ["00:13:00.720", "Insight on Feenal", "Insight on Phynom"],
-    ["00:14:01.375", "Kirowind", "cure wounds"],
-    ["00:30:35.970", "Daver", "Diver"],
-    ["00:43:09.490", "Be well, attorney", "Be well, Journey"],
-    ["00:49:29.385", "And Phina made", "And Phynom made"]
+    [
+      "00:12:42.835",
+      "Phynom Rollins down",
+      "Phynom, Rolan's down"
+    ],
+    [
+      "00:13:00.720",
+      "Insight on Feenal",
+      "Insight on Phynom"
+    ],
+    [
+      "00:14:01.375",
+      "Kirowind",
+      "cure wounds"
+    ],
+    [
+      "00:30:35.970",
+      "Daver",
+      "Diver"
+    ],
+    [
+      "00:43:09.490",
+      "Be well, attorney",
+      "Be well, Journey"
+    ],
+    [
+      "00:49:29.385",
+      "And Phina made",
+      "And Phynom made"
+    ],
+    [
+      "00:10:14.250",
+      "Meet the fur bolt",
+      "Meet the Firbolg"
+    ]
   ]
 }

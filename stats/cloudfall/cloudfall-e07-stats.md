@@ -37,7 +37,7 @@
 | Guy | Thrown gold coin | Burn welt | Gold burns him |
 | Guy | Brigand's billy club | Head knocked off | Recovered by Poppy in a tea towel |
 
-> *Should flashback kills and head losses count toward the season totals? Kept out for now; flagged for Tim.*
+> *Flashback head losses count (Tim's rule). Flashback kills and damage stay out of the running totals.*
 
 ---
 
@@ -92,7 +92,7 @@
 
 | Character | Ability | Count |
 |-----------|---------|-------|
-| Guy | Head detached on purpose (oven watch) | 1 |
+| Guy | Head removed on purpose (oven watch) | 1 |
 | Poppy | Fiber field cake (baked for Journey) | 1 |
 | Guy | Green-flame greatsword *(flashback)* | 1 |
 | Eryn | Shapeshift: child *(flashback)* | 1 |
@@ -114,15 +114,15 @@
 | Episode | Count | Context |
 |---------|-------|---------|
 | E01 | 0 | — |
-| E02 | 1 | Diver punch · Poppy recovered it |
-| E03 | 0 | — |
+| E02 | 2 | Diver punch · Poppy recovered it · then removed it himself mid-fall to protect it |
+| E03 | 0 | Already off from the fall · reattached in the quenching pool |
 | E04 | 0 | — |
 | E05 | 0 | — |
 | E06 | 0 | Offered to remove it to share the echo bell · didn't |
-| E07 | 0 | Removed it on purpose to watch the oven · flashback: billy club knocked it off before the campaign *(not counted, see note)* |
-| **Season Total** | **1** | |
+| E07 | 2 | Removed on purpose to watch the oven · flashback: knocked off by Mancy's billy club |
+| **Season Total** | **4** | |
 
-> *Proposal: track voluntary removals separately from knocked-off heads, and decide whether the flashback loss counts. Waiting on Tim.*
+> *Rule (Tim, E07 review): every head removal counts — knocked off, taken off on purpose, in flashbacks, and in dreams. E02 rose from 1 to 2 under this rule; the imported E02–E04 stats files still show the old count.*
 
 ---
 

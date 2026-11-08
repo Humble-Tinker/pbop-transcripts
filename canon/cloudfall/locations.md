@@ -14,7 +14,7 @@
 - **Rune's Workshop** — derelict salvage storefront near the Forge Ring (E04)
 
 ## Elsewhere
-- **Dawn's Edge** — western city · builders of the Tack and the Heavenly Feather (E01, E05)
+- **Dawn's Edge** — western city · home of the Tack guild, builders of the Heavenly Feather (E01, E05)
 - **Lodom**, **Cilivry** — guilds / homelands with Break Day flagships (E01)
 - **Lamplight Landing** — where Yarhar nearly died (E05 · mentioned)
 
@@ -28,7 +28,7 @@
 - **High Shire** — halfling-only skyland (E05)
 - **Cloud strata** — regular atmosphere · Upper Cumula · Lower Cumula · Null Substrata (E05)
 - **Lower Cumula** — dark as night, violent wind, constant lightning (E06)
-- **Teledry** — Tower of Magic Poppy dropped out of (E06–E07 · spelling unconfirmed)
+- **Tildry** — Tower of Magic Poppy dropped out of (E06–E07)
 
 ## Vessels
 - **The Heavenly Feather** — Dawn's Edge sky ship · Captain Yarhar · maiden voyage · galley, quarters, storage, engine room · captain's secret stairwell (E05) · rope closet, guarded cargo-hold door, crow's nest (E06)

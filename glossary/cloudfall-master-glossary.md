@@ -119,7 +119,7 @@
 
 | Canonical | Also Appears As |
 |-----------|----------------|
-| Firbolg | furbolg · furball · fear bog · fear books · fear bulgs · fur bulb · fair ball · fear bugs · Fjerbulk · Fjerbug |
+| Firbolg | furbolg · fur bolt · furball · fear bog · fear books · fear bulgs · fur bulb · fair ball · fear bugs · Fjerbulk · Fjerbug |
 | Aarakocra | Aarakocra (correct) |
 | Air Genasi | Air Genasi (correct) |
 | Earth Genasi | Earth Genasi (correct) |
@@ -153,8 +153,13 @@
 | Spark engine | spark engine (correct) | Bismyte-powered airship propulsion |
 | Break Day | Break (correct) | 15th anniversary of Farewell's founding |
 | The Blight | the Blight (correct) | Criminal guild · Diver's organization |
-| The Tack | the Tack (correct) | Dawn's Edge guild airship (named in E03–E04) |
-| Heavenly Feather | heavenly feather | Dawn's Edge airship the party actually boards (E05) |
+| The Tack | the Tack (correct) | Dawn's Edge guild that built the Heavenly Feather (a sailing-gear name) · not a ship |
+| Heavenly Feather | heavenly feather | The Tack's sky ship · Captain Yarhar (E05) |
+| gambeson | Gambiton | Doran's padded jacket · recurring bit (E06) |
+| Fiber Field Cake | fiber field cake | Poppy's protective bran biscuit (E07) |
+| Driftweed | drift weed | Lor incense that loosens memory for story jars (E07) |
+| Tildry | Teledry · Toldry | City of the Tower of Magic Poppy dropped out of (E06–E07) |
+| Mancy | Nancy · Yancey | Brigand Guy killed before the campaign (E07 flashback) |
 | Gove | gove (correct) | Cockney address term · not a name |
 
 ---

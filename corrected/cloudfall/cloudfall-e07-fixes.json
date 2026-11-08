@@ -13,12 +13,40 @@
     "01:26:02.915": "Tara / Journey"
   },
   "text": [
-    ["00:01:24.515", "Laura would be approaching", "Lor would be approaching"],
-    ["00:12:42.905", "Chef Bo is", "Chef Bowie is"],
-    ["00:19:34.140", "Dolan", "Doran"],
-    ["00:29:12.920", "Constructed of basil", "Constructed of basalt"],
-    ["00:30:32.115", "Taua 96", "Tower 96"],
-    ["00:46:00.710", "here on Lore", "here on Lor"],
-    ["01:10:09.190", "Toldry", "Teledry"]
+    [
+      "00:01:24.515",
+      "Laura would be approaching",
+      "Lor would be approaching"
+    ],
+    [
+      "00:12:42.905",
+      "Chef Bo is",
+      "Chef Bowie is"
+    ],
+    [
+      "00:19:34.140",
+      "Dolan",
+      "Doran"
+    ],
+    [
+      "00:29:12.920",
+      "Constructed of basil",
+      "Constructed of basalt"
+    ],
+    [
+      "00:30:32.115",
+      "Taua 96",
+      "Tower 96"
+    ],
+    [
+      "00:46:00.710",
+      "here on Lore",
+      "here on Lor"
+    ],
+    [
+      "01:08:42.250",
+      "Listen, Quinn",
+      "Listen, Eryn"
+    ]
   ]
 }

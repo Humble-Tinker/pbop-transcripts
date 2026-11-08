@@ -63,7 +63,7 @@ Caught in his office, Captain Yarhar lets Eryn off with a warning (*"let a good 
   - Past an armed sailor guarding a door · Doran leaves his jacket outside on a hook · Investigation 16: room clear
   - Eryn: no one offers a free sky ship ride · maybe they're bait for Diver
   - Journey: Rolan seems lost, not on a mission · Guy: don't look a gift horse in the mouth
-  - Poppy studied at the school of magic in **Teledry** and dropped out to bake
+  - Poppy studied at the school of magic in **Tildry** and dropped out to bake
   - Arcana 13 (Doran's inspiration adds a 1): a tiny invisible echo bell · someone is listening
   - Poppy's coded talk goes straight into the bell (Performance 6) · Doran throws the jacket out the door
   - Journey, with advantage (15): Libera's shoulder pat in E04 was too familiar for a first meeting
@@ -179,7 +179,7 @@ Caught in his office, Captain Yarhar lets Eryn off with a warning (*"let a good 
 ### The Isle of Lor *(updated)*
 - Clustered floating rock islands joined by rope bridges · hexagonal basalt towers like the Giant's Causeway · lower half shrouded in permanent cloud
 
-### Teledry *(new · mentioned)*
+### Tildry *(new · mentioned)*
 - Site of the school of magic Poppy dropped out of
 
 ---
@@ -247,7 +247,7 @@ Caught in his office, Captain Yarhar lets Eryn off with a warning (*"let a good 
 | Yarhar | Yarra |
 | Isle of Lor | Isle of Lohr · "go to lore" |
 | Doran | Darren · Dorian |
-| gambeson | Gambiton (3×, fixed by hand) · keep as a one-off or add to glossary? |
-| Teledry | Teledry (new — Poppy's magic school · spelling unconfirmed) |
+| gambeson | Gambiton (confirmed · recurring, added to glossary) |
+| Tildry | Teledry (confirmed by Tim) |
 | Journey | Jodie · Jenny (one-offs, fixed by hand) |
 | Guy | Kai · Skye (one-offs, fixed by hand) |

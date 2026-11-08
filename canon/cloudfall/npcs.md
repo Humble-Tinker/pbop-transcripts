@@ -91,7 +91,7 @@
 - Tortle · Hubert's nephew and apprentice · may not be spoken to · terrible baker (E07)
 
 ### April
-- Tortle archivist · collects stories with drift weed and story jars (E07)
+- Tortle archivist · collects stories with Driftweed and story jars (E07)
 
 ## Deceased
 
@@ -99,7 +99,7 @@
 - **Barb** — pipe-smoking enforcer · killed by Journey (E01)
 - **Thompson** — oldest Blight member · killed by Journey (E01)
 - **Wolf specter** — destroyed by iron at the Forge Ring (E03)
-- **Brigand "Mancy"/"Nancy"** — killed by Guy before the campaign (E07 flashback · name unconfirmed)
+- **Brigand Mancy** — killed by Guy before the campaign (E07 flashback)
 
 ## Fictional (party disguises)
 

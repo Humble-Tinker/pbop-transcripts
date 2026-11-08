@@ -120,11 +120,13 @@
 | Episode | Count | Context |
 |---------|-------|---------|
 | E01 | 0 | — |
-| E02 | 1 | Diver punch · Poppy recovered it |
-| E03 | 0 | — |
+| E02 | 2 | Diver punch · Poppy recovered it · then removed it himself mid-fall to protect it |
+| E03 | 0 | Already off from the fall · reattached in the quenching pool |
 | E04 | 0 | — |
 | E05 | 0 | — |
-| **Season Total** | **1** | |
+| **Season Total** | **2** | |
+
+> *Rule (Tim, E07 review): every head removal counts — knocked off, taken off on purpose, in flashbacks, and in dreams. E02 rose from 1 to 2 under this rule; the imported E02–E04 stats files still show the old count.*
 
 ---
 
