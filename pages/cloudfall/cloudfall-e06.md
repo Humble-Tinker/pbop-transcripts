@@ -920,7 +920,7 @@ Then the ship drops through a break in the clouds into **Lower Cumula**, a dark 
 
 **John / Doran:** So it's not, let's not worry about that. You should know this, Guy. Do any of you know how to identify magic items?
 
-**Maggie / Poppy:** I studied at the school of magic in Teledry.
+**Maggie / Poppy:** I studied at the school of magic in Tildry.
 
 **John / Doran:** Okay.
 
@@ -1558,9 +1558,9 @@ Then the ship drops through a break in the clouds into **Lower Cumula**, a dark 
 
 **Maggie / Poppy:** No. No. What? The tall
 
-**Tim / GM:** guy with the gambeson?
+**Tim / GM:** guy with the Gambeson?
 
-**Hannah / Eryn:** Stop trying to make gambeson happen, Doran.
+**Hannah / Eryn:** Stop trying to make Gambeson happen, Doran.
 
 **John / Doran:** It's not going to happen.
 

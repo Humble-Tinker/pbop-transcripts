@@ -232,7 +232,7 @@ Everyone finds a corner of the ship. **Poppy** rescues **Pinch** from a bullywug
 
 **Tim / GM:** Yeah. Give me an athletics check.
 
-**Maggie / Poppy:** Meet the fur bolt.
+**Maggie / Poppy:** Meet the Firbolg.
 
 **Tim / GM:** Oh, that's good.
 

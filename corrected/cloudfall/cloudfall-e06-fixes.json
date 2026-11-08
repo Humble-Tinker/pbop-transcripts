@@ -28,15 +28,40 @@
     "01:17:48.470": "Tim / GM"
   },
   "text": [
-    ["00:09:18.480", "I must ask, Jodie", "I must ask, Journey"],
-    ["00:25:11.315", "Jenny doesn't know", "Journey doesn't know"],
-    ["00:35:23.215", "Kai, maybe", "Guy, maybe"],
-    ["00:35:58.995", "You should know this, Kai", "You should know this, Guy"],
-    ["00:54:40.145", "when you all go to lore", "when you all go to Lor"],
-    ["00:56:15.920", "Thanks, Skye and Poppy", "Thanks, Guy and Poppy"],
-    ["00:59:16.485", "Gambiton", "Gambeson"],
-    ["00:59:19.045", "Gambiton", "gambeson"],
-    ["00:59:20.085", "Gambiton", "gambeson"],
-    ["01:09:29.755", "subismite", "some Bismyte"]
+    [
+      "00:09:18.480",
+      "I must ask, Jodie",
+      "I must ask, Journey"
+    ],
+    [
+      "00:25:11.315",
+      "Jenny doesn't know",
+      "Journey doesn't know"
+    ],
+    [
+      "00:35:23.215",
+      "Kai, maybe",
+      "Guy, maybe"
+    ],
+    [
+      "00:35:58.995",
+      "You should know this, Kai",
+      "You should know this, Guy"
+    ],
+    [
+      "00:54:40.145",
+      "when you all go to lore",
+      "when you all go to Lor"
+    ],
+    [
+      "00:56:15.920",
+      "Thanks, Skye and Poppy",
+      "Thanks, Guy and Poppy"
+    ],
+    [
+      "01:09:29.755",
+      "subismite",
+      "some Bismyte"
+    ]
   ]
 }
