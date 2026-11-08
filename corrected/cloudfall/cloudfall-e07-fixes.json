@@ -1,5 +1,5 @@
 {
-  "_note": "Reviewed fixes for E07 after a full read. Flashback scenes have heavy crosstalk; only clear cases changed.",
+  "_note": "Reviewed fixes for E07 after a full read. Flashback scenes have heavy crosstalk; only clear cases changed. Turtle -> tortle applied per Tim's E08 ruling.",
   "speakers": {
     "00:04:27.970": "Tara / Journey",
     "00:18:17.685": "Hannah / Eryn",
@@ -47,6 +47,61 @@
       "01:08:42.250",
       "Listen, Quinn",
       "Listen, Eryn"
+    ],
+    [
+      "00:16:34.640",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:16:34.640",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:16:56.175",
+      "Turtle",
+      "Tortle"
+    ],
+    [
+      "00:16:57.215",
+      "Turtle",
+      "Tortle"
+    ],
+    [
+      "00:23:23.070",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:28:04.060",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:28:58.870",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:34:17.525",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:37:48.790",
+      "turtle",
+      "tortle"
+    ],
+    [
+      "00:50:40.950",
+      "turtles",
+      "tortles"
+    ],
+    [
+      "01:29:29.655",
+      "turtles",
+      "tortles"
     ]
   ]
 }

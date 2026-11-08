@@ -45,7 +45,7 @@
 - **Echo bells, natural** — snail shells that pair by frequency and stay entangled · the party's first pair was forced by magic (E08)
 - **Bright bulbs** — floating jellyfish · salty soup · **cloud kips** — glide-tailed cat-squirrels, never tamed, taboo to harm (E08)
 - **Skylands** — every one held aloft by Bismyte · Lor can float another 10,000 years (E08)
-- **The six minutes** — Lor's daily bell for doing nothing · **lore hunters** — tortles sent out for knowledge · ~50 tortles on Lor · **the whale** brings sweets every couple of months (E08)
+- **The six minutes** — Lor's daily bell for doing nothing · **Lore Hunters** — tortles sent out for knowledge · ~50 tortles on Lor · **the whale** brings sweets every couple of months (E08)
 - **Paying in knowledge** — no one may pay for another (E08)
 - **Saffron spices** — remove heat, add heat, remove salt (E08)
 - **Curses** — Vindorn stemmed the worst, didn't end them · Tower 13 sealed ~16 years · no one has come out (E08)

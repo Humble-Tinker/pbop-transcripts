@@ -10,11 +10,11 @@ With two weeks to kill on the Isle of Lor, the party splits up to chase a cloud 
 
 Then everyone goes their own way. Journey slips off to mourn the Feybud Diver drained, and on a windy slope meets a very old man with piercing blue eyes who repeats her words back to her, too late, and wants a closer look at her Feybuds. He isn't human. He vanishes the moment **Hubert** comes calling.
 
-**Eryn**, disguised as April, tracks a cloud kip with a natural 20 and loses it on the wind, then watches a giant tortle gardener coax it onto his shell while he prunes his bonsai. **Poppy** finds the tortles' bright bulb soup, learns their spices come from **Saffron**, and wins over the whole table with chocolate chip cookies.
+**Eryn**, disguised as April, tracks a cloud kip with a natural 20 and loses it on the wind, then watches **Tulley**, a giant tortle gardener, coax it onto his shell while he prunes his bonsai. **Poppy** finds the tortles' bright bulb soup, learns their spices come from **Saffron**, and wins over the whole table with chocolate chip cookies.
 
 **Doran** and **Guy** go to look at **Tower 13**, the sealed tower of curses. It's locked, there's a strange chalk door on the back, and "April" shows up threatening to push them off the island. Nobody noticed the echo bell on the door. Hubert heard everything.
 
-With him comes **Shred**, the island's prime lore hunter, who calls Guy "General." They met ten years ago, and Guy's own account of his past is locked away in Tower 25, among records of war crimes and atrocities. The price is more than Guy can pay, and no one is allowed to pay for him. Guy says no locked door will stop him. Shred says he'll enforce the rules. This actual play D&D podcast episode of Cloudfall ends with Guy's hand on his sword.
+With him comes **Shred**, the island's prime Lore Hunter, who calls Guy "General." They met ten years ago, and Guy's own account of his past is locked away in Tower 25, among records of war crimes and atrocities. The price is more than Guy can pay, and no one is allowed to pay for him. Guy says no locked door will stop him. Shred says he'll enforce the rules. This actual play D&D podcast episode of Cloudfall ends with Guy's hand on his sword.
 
 ## Full Transcript
 
@@ -336,11 +336,11 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **John / Doran:** So we've only met, 3 here, and I'm not sure how many others there are. But,
 
-**Tim / GM:** It depends how many of our lore hunters are on the island right now, but 50 or so of us in total.
+**Tim / GM:** It depends how many of our Lore Hunters are on the island right now, but 50 or so of us in total.
 
-**Tara / Journey:** K. Lore hunters? What are those?
+**Tara / Journey:** K. Lore Hunters? What are those?
 
-**Tim / GM:** On occasion, we do send out some of our lore hunters to seek out knowledge and bring it back.
+**Tim / GM:** On occasion, we do send out some of our Lore Hunters to seek out knowledge and bring it back.
 
 **Tara / Journey:** Oh, interesting. So it's not all travelers coming and dropping off their knowledge?
 
@@ -410,7 +410,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Tara / Journey:** Not yet.
 
-**Thomas / Guy:** He's got one level in Warlock, which gives him some of his more flashy dual hand abilities.
+**Thomas / Guy:** He's got one level in Warlock, which gives him some of his more flashy Dullahan abilities.
 
 **Hannah / Eryn:** Did you say or flashy? Uh-huh. Yes.
 
@@ -688,7 +688,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Tim / GM:** Okay.
 
-**Hannah / Eryn:** Eryn shifts into a turtle, and then walks off into the woods.
+**Hannah / Eryn:** Eryn shifts into a tortle, and then walks off into the woods.
 
 **Tara / Journey:** Okay. Goodbye.
 
@@ -756,17 +756,17 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Tara / Journey:** Nice to meet you.
 
-**Tim / GM:** Cody? Cody, where are you?
+**Tim / GM:** Journey? Journey, where are you?
 
 **Tim / GM:** The old man's eyes flick open, and he disappears.
 
-**Tim / GM:** Jerdie. Jerdie. I saw you out here. You're far too close to the edge. You can't be out here when the clouds come around.
+**Tim / GM:** Journey. Journey. I saw you out here. You're far too close to the edge. You can't be out here when the clouds come around.
 
-**Tim / GM:** Jordy.
+**Tim / GM:** Journey.
 
 **Tara / Journey:** Hello?
 
-**Tim / GM:** Ah, Jordy. Hubert pokes through the mist.
+**Tim / GM:** Ah, Journey. Hubert pokes through the mist.
 
 **Tim / GM:** He says, you can't be this close to the edge when the clouds come about.
 
@@ -808,7 +808,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Tim / GM:** Let's move on to
 
-**Thomas / Guy:** Eryn. I've got episode titles for every one of our exploits. There's Journey Funeral for a Fae, To Catch a Cloud Kip, The Search for Soup, and Trouble in Tower 13.
+**Thomas / Guy:** Eryn. I've got episode titles for every one of our exploits. There's Journey Funeral for a Fae, To Catch a Cloud kip, The Search for Soup, and Trouble in Tower 13.
 
 **Hannah / Eryn:** Oh my god. Beautiful.
 
@@ -850,7 +850,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Tim / GM:** Wow. Shit. Okay. You've been looking at the cliffs, the rocks, being that that's where you saw it in the first place. You would assume it's kind of in the same place, maybe in one of those little caves, but no.
 
-**Tim / GM:** Where you end up finding it is deeper into this Juniper Grove. You can see part of this area is very much man made or turtle made. This area is kind of set up like a museum. There's these natural rock spires, but planted on top of them are small manicured bonsai trees. Somebody has gone through painstaking effort to trim these down into grand little bonsais.
+**Tim / GM:** Where you end up finding it is deeper into this Juniper Grove. You can see part of this area is very much man made or tortle made. This area is kind of set up like a museum. There's these natural rock spires, but planted on top of them are small manicured bonsai trees. Somebody has gone through painstaking effort to trim these down into grand little bonsais.
 
 **Tim / GM:** Clinging to one of those bonsai trees, you see a giant tailed cloud kip. The cloud kip has 2 modes, and it is moving erratically or completely still. Mhmm. You see it kind of, like, move in a spiral up this bonsai tree, and then stop abruptly and stare directly at you with huge eyes. And then it breaks and starts moving again and stops again and looks up at you, kind of hiding behind the tree now.
 
@@ -904,7 +904,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Hannah / Eryn:** just hold there as long as it takes.
 
-**Tim / GM:** You occasionally remind the Cloud Kip that there are berries to be had. And after 15 minutes of standing there, it starts to make its way towards you. It has made up its mind. It's going to try. It begins to climb you.
+**Tim / GM:** You occasionally remind the Cloud kip that there are berries to be had. And after 15 minutes of standing there, it starts to make its way towards you. It has made up its mind. It's going to try. It begins to climb you.
 
 **Tim / GM:** It climbs your arm out onto the branch and starts eating the berries.
 
@@ -934,7 +934,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Maggie / Poppy:** 8. Oh. The,
 
-**Tim / GM:** cloud Kip just spanks right into the air and catches some wind, and you see it immediately drift back like a lost dandelion about 30 feet away from you. No. And it lands much higher on a tree.
+**Tim / GM:** cloud kip just spanks right into the air and catches some wind, and you see it immediately drift back like a lost dandelion about 30 feet away from you. No. And it lands much higher on a tree.
 
 **Hannah / Eryn:** What color is this one? Are they different colors?
 
@@ -954,7 +954,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Hannah / Eryn:** 17.
 
-**Tim / GM:** A very large turtle, the largest you've seen so far by a good deal, much bigger than Hubert, is walking into this area. He's carrying a, large iron shears, like big scissors in one hand. And he's walking out to the bonsai, and, he begins just, like, trimming them up a little bit.
+**Tim / GM:** A very large tortle, the largest you've seen so far by a good deal, much bigger than Hubert, is walking into this area. He's carrying a, large iron shears, like big scissors in one hand. And he's walking out to the bonsai, and, he begins just, like, trimming them up a little bit.
 
 **Hannah / Eryn:** I'm just gonna watch them.
 
@@ -968,9 +968,9 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Tim / GM:** He just, like, takes one finger and just kinda pats it, like, from the nose up the head, and it seems to acquiesce. The the cloud kip is fine with it. He continues to trim his bonsai tree, not ever knowing that you're there.
 
-**Hannah / Eryn:** Eryn's just gonna watch him interact with the cloud Kip for research and then gonna try to catch another one another day and never reveal themselves to this turtle Sure. As he's there.
+**Hannah / Eryn:** Eryn's just gonna watch him interact with the cloud kip for research and then gonna try to catch another one another day and never reveal themselves to this tortle Sure. As he's there.
 
-**Tim / GM:** Eryn, during that couple minutes of, recon or research or monitoring this guy, he starts to quietly explain what he's doing to the cloud Kip. He says, you see this?
+**Tim / GM:** Eryn, during that couple minutes of, recon or research or monitoring this guy, he starts to quietly explain what he's doing to the cloud kip. He says, you see this?
 
 **Tim / GM:** You know why we cut them like this? It's so we make it look like it's much bigger than it is.
 
@@ -978,7 +978,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Tim / GM:** Convince yourself of it. It's big. Can you see it? The cloud kip is just kind of interestedly like moving its head back and forth, not understanding a word that he's saying. He says, it's beautiful because we choose to see it that way.
 
-**Tim / GM:** Perception's a powerful thing, Old things can be big. And he gives a tap to that cloud Kip again. And then he just goes,
+**Tim / GM:** Perception's a powerful thing, Old things can be big. And he gives a tap to that cloud kip again. And then he just goes,
 
 **Tim / GM:** oh ho ho.
 
@@ -988,7 +988,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Tara / Journey:** Michael Caine.
 
-**John / Doran:** The turtle
+**John / Doran:** The tortle
 
 **Maggie / Poppy:** botanist. You always have to have one very calm British man Yeah. Explaining things to you in
 
@@ -1032,9 +1032,9 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Maggie / Poppy:** Perfect. Thank you.
 
-**Tim / GM:** She leads you to a much larger, hut than the ones that you've seen before. Again, this is made of largely cobbled stone, and then it has a kind of a mossy roof to it. When you enter into there, there's, like, 7 other turtle in there, of varying ages. Some very, very young. Hubert is in there as well.
+**Tim / GM:** She leads you to a much larger, hut than the ones that you've seen before. Again, this is made of largely cobbled stone, and then it has a kind of a mossy roof to it. When you enter into there, there's, like, 7 other tortle in there, of varying ages. Some very, very young. Hubert is in there as well.
 
-**Tim / GM:** Mikey is in there. You see some other, young turtle hanging with Mikey, and soup is on. You can see a large jelly being, like, stirred around vigorously so that it's being, like, broken up into the stew.
+**Tim / GM:** Mikey is in there. You see some other, young tortle hanging with Mikey, and soup is on. You can see a large jelly being, like, stirred around vigorously so that it's being, like, broken up into the stew.
 
 **Maggie / Poppy:** That's so fucked up. Yeah. Is there a line?
 
@@ -1176,7 +1176,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Maggie / Poppy:** Although, I wonder if you could make edible pottery. I mean, there's there's bread bowls and stuff, so you could probably just move on to the rest of the
 
-**Tim / GM:** Mikey walks up to you with another small turtle around his same size. Mikey says,
+**Tim / GM:** Mikey walks up to you with another small tortle around his same size. Mikey says,
 
 **Tim / GM:** do you have, sweets?
 
@@ -1234,7 +1234,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Maggie / Poppy:** This is what we call finger food.
 
-**Tim / GM:** They all start looking at their giant turtle hands and that'd
+**Tim / GM:** They all start looking at their giant tortle hands and that'd
 
 **Maggie / Poppy:** be Hand food. I'll dole out a cookie each.
 
@@ -1268,13 +1268,13 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Tim / GM:** I mean, aside from some ropes and a small chain on the door, there is some writing that you do not understand scrawled onto the door.
 
-**Thomas / Guy:** Well, here it is, Doran. Are we prepared to disobey our turtle masters?
+**Thomas / Guy:** Well, here it is, Doran. Are we prepared to disobey our tortle masters?
 
 **Tim / GM:** Give me a perception check, both of you.
 
 **John / Doran:** 13. 9.
 
-**Tim / GM:** Okay. You notice that this tower is quite close to a couple others. It's not, like, isolated, kind of off by itself. But you also don't see any other turtle around here, nor any of your party. Seems the coast is clear.
+**Tim / GM:** Okay. You notice that this tower is quite close to a couple others. It's not, like, isolated, kind of off by itself. But you also don't see any other tortle around here, nor any of your party. Seems the coast is clear.
 
 **John / Doran:** I think we should stick with the group plan to wait to try this one out towards the end of our 2 weeks here. But good to know that doesn't seem to be guarded, and Doran's gonna walk around it, just kinda looking around, looking out away from the tower, but also glancing back to see, like, are there any, like, windows or openings in the roof or anything like that?
 
@@ -1322,7 +1322,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Tim / GM:** So you actually have watched them approach. You watched Doran walk around the entire tower. The clouds aren't so thick here that you can't see them, you know, a good 50 feet away as they are.
 
-**Hannah / Eryn:** So, yeah, I think Eryn, like I said, was just making their way back to the main area and just happened to hear them, like, kind of poking around tower 13 and decided to have a little fun. I'm still in April's turtle form.
+**Hannah / Eryn:** So, yeah, I think Eryn, like I said, was just making their way back to the main area and just happened to hear them, like, kind of poking around tower 13 and decided to have a little fun. I'm still in April's tortle form.
 
 **John / Doran:** Great.
 
@@ -1374,7 +1374,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Maggie / Poppy:** Oh my god.
 
-**Hannah / Eryn:** You just see April's, has no lips and their little turtle mouth just closes tightly and just, like, purses kind of in a disgruntled face at you.
+**Hannah / Eryn:** You just see April's, has no lips and their little tortle mouth just closes tightly and just, like, purses kind of in a disgruntled face at you.
 
 **John / Doran:** Oh, I didn't mean to offend.
 
@@ -1392,7 +1392,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Hannah / Eryn:** And, Eryn turns around and waddles off.
 
-**Tim / GM:** And standing there is Hubert, Poppy, and another turtle you haven't met yet. Let's rewind a second. Poppy.
+**Tim / GM:** And standing there is Hubert, Poppy, and another tortle you haven't met yet. Let's rewind a second. Poppy.
 
 **Hannah / Eryn:** Yes.
 
@@ -1448,7 +1448,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Tim / GM:** will have April take a look at your heebie jeebies. Describe this person.
 
-**Tara / Journey:** Well, like I said, old for a human, but I don't think he was really human. And, kinda bald. I can nothing on top. Well, I guess, turtle, I'll kinda have. Anyway, and then just real bright blue eyes.
+**Tara / Journey:** Well, like I said, old for a human, but I don't think he was really human. And, kinda bald. I can nothing on top. Well, I guess, tortle, I'll kinda have. Anyway, and then just real bright blue eyes.
 
 **Tara / Journey:** He was wearing some nothing fancy, just like old raggedy kinda We
 
@@ -1486,9 +1486,9 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 ### Part 9 — The General · 66:48
 
-**Tim / GM:** Hubert is fuming the entire time. You're just listening to this conversation. On your way there, Poppy, that grumbly, gruff other turtle is walking with you. As the conversation goes back and forth, you learn that other turtle, his name is Shred. Yes.
+**Tim / GM:** Hubert is fuming the entire time. You're just listening to this conversation. On your way there, Poppy, that grumbly, gruff other tortle is walking with you. As the conversation goes back and forth, you learn that other tortle, his name is Shred. Yes.
 
-**Tim / GM:** He is their, prime lore hunter. He's the only one to have, one of the only ones to have left the island and come back with stories, gathered lore.
+**Tim / GM:** He is their, prime Lore Hunter. He's the only one to have, one of the only ones to have left the island and come back with stories, gathered lore.
 
 **Maggie / Poppy:** Okay. See, what you have
 
@@ -1516,7 +1516,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Hannah / Eryn:** Oh, Hubert, just in time. These ruffians were trying to break into tower 13, and now we must push them off the island.
 
-**Hannah / Eryn:** And, April is gonna make a wink, 1 huge turtle eye turtle eye right at Hubert.
+**Hannah / Eryn:** And, April is gonna make a wink, 1 huge tortle eye tortle eye right at Hubert.
 
 **Tim / GM:** Okay. No more driftweed, please.
 
@@ -1574,7 +1574,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **John / Doran:** Rolan. Mueller. Hubert. T's don't exist in this world. Yeah.
 
-**John / Doran:** Look. I understand there's great concern about something that's happened in the past related to curses. You must know with your lore hunters in and out of the world that curses still exist, and in the right hands and carefully procured, some knowledge of curses could be good.
+**John / Doran:** Look. I understand there's great concern about something that's happened in the past related to curses. You must know with your Lore Hunters in and out of the world that curses still exist, and in the right hands and carefully procured, some knowledge of curses could be good.
 
 **Tim / GM:** I absolutely agree. That's why we've accumulated knowledge of curses here. However, as I explained, there was a terrible event here some 16 odd years ago.
 
@@ -1584,7 +1584,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **John / Doran:** That implies someone has gone inside.
 
-**Tim / GM:** Unfortunately, yes. Some of our lore hunters, more suited to the task, thought they'd be able to cleanse this place. They were wrong.
+**Tim / GM:** Unfortunately, yes. Some of our Lore Hunters, more suited to the task, thought they'd be able to cleanse this place. They were wrong.
 
 **Maggie / Poppy:** Forgive me if I'm wrong, and I didn't really pay attention in that class, but I I thought that curses were taken care of like it was over.
 
@@ -1608,7 +1608,7 @@ With him comes **Shred**, the island's prime lore hunter, who calls Guy "General
 
 **Thomas / Guy:** Is this like a come back when we're a higher level thing? Or
 
-**Tim / GM:** Shred, the other large turtle steps towards you and says, if I may. He looks towards Guy.
+**Tim / GM:** Shred, the other large tortle steps towards you and says, if I may. He looks towards Guy.
 
 **Tim / GM:** Yes.
 

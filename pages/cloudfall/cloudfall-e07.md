@@ -360,11 +360,11 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Tim / GM:** You know, you might have had it in your head that these skylines might have been, like, little tiny deserted islands by themselves, but no. On this island, you can hardly tell that it's floating in the middle of the air. You can't really see from end to end in a lot of places. Again, you can see those hexagonal towers, jutting out from the ground. They almost look man made, but they're definitely weathered and natural.
 
-**Tim / GM:** As a ship lands, a long plank is being extended from the side of the ship that gives you a little ramp to walk back on to land from. Standing at the end of that plank on the moss itself, is a very old turtle. He's holding a lamp in one hand and a staff in the other, and there's a very small, much younger turtle standing behind
+**Tim / GM:** As a ship lands, a long plank is being extended from the side of the ship that gives you a little ramp to walk back on to land from. Standing at the end of that plank on the moss itself, is a very old tortle. He's holding a lamp in one hand and a staff in the other, and there's a very small, much younger tortle standing behind
 
-**John / Doran:** him. Turtle people.
+**John / Doran:** him. Tortle people.
 
-**Tim / GM:** Yes. Turtle people. These are bipedal people. Yeah. They're standing on 2 legs, giant shells, you know, reptilian features.
+**Tim / GM:** Yes. Tortle people. These are bipedal people. Yeah. They're standing on 2 legs, giant shells, you know, reptilian features.
 
 **Tim / GM:** This one's got a lot of stuff on him, like little charms and ropes and little things attached to his shell. The younger one doesn't seem to have as much decoration on him. Yarhar approaches you, Eryn, on the deck
 
@@ -542,7 +542,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Tim / GM:** Guy catches up
 
-**Tim / GM:** to it and starts dragging back as Poppy figures out the levitator, gets it under control. Meanwhile, yarhar is introducing his crewmates to this turtle here. He gestures to the 5 that come down with him and he says, it's great to meet you. I understand you are Hubert. Is that correct?
+**Tim / GM:** to it and starts dragging back as Poppy figures out the levitator, gets it under control. Meanwhile, yarhar is introducing his crewmates to this tortle here. He gestures to the 5 that come down with him and he says, it's great to meet you. I understand you are Hubert. Is that correct?
 
 **Tim / GM:** He
 
@@ -660,7 +660,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Thomas / Guy:** It's fine, puppy.
 
-**Tara / Journey:** I follow the turtle.
+**Tara / Journey:** I follow the tortle.
 
 **Tim / GM:** The trail away from this place leads immediately downwards. It's a stony path kind of like a very narrow canyon that's weaving between all these higher cliffs, all these gray rocks here and moss on practically everything. It's very wet on this island as the clouds kind of bob up and down causing this place to be sometimes completely shrouded in the mist of clouds. At other times, much more sunny and bright.
 
@@ -680,7 +680,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **John / Doran:** Sorry, Mikey. I gotta ignore you, I guess.
 
-**Tim / GM:** He looks up at you with these huge turtle eyes and just solemnly nods his head. And he's like
+**Tim / GM:** He looks up at you with these huge tortle eyes and just solemnly nods his head. And he's like
 
 **Tim / GM:** you'll earn the right to speak, Mikey, in due time.
 
@@ -840,7 +840,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Tim / GM:** But there is a cobblestone building that is nestled into the mountainside here. A lot of these cobbles look to be hexagonal in nature and kind of interlock in a very satisfying way. But there's also a glass window, and you can see warm lamplight coming from inside. He opens a huge ovaloid door for all of you and ushers you in, the other crew included. In here, it's a little damp still.
 
-**Tim / GM:** It seems this there's no escaping the wet on this island, and the turtle might like it that way, but it's much warmer and much more pleasant in here. You can smell food being cooked somewhere. He says, this is where you can stay. This is our warming house but excellent for
+**Tim / GM:** It seems this there's no escaping the wet on this island, and the tortle might like it that way, but it's much warmer and much more pleasant in here. You can smell food being cooked somewhere. He says, this is where you can stay. This is our warming house but excellent for
 
 **Maggie / Poppy:** guests. Warming?
 
@@ -942,7 +942,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Maggie / Poppy:** I'm really good at not eating things.
 
-**Tim / GM:** Hubert is giving a big turtle smile to the rest of the group and is kinda, like, squinting. And he keeps, like, raising where his eyebrows would be as he's looking over you and he says, so
+**Tim / GM:** Hubert is giving a big tortle smile to the rest of the group and is kinda, like, squinting. And he keeps, like, raising where his eyebrows would be as he's looking over you and he says, so
 
 **Maggie / Poppy:** It's really something.
 
@@ -1314,7 +1314,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Tim / GM:** That's the gamut grayscale here.
 
-**Tara / Journey:** Can turtles see color?
+**Tara / Journey:** Can tortles see color?
 
 **Tim / GM:** Nope. See you.
 
@@ -1910,7 +1910,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **Tim / GM:** Tragic, yet heartfelt. That all makes good sense, but we haven't said a word about this one. How did she come to be here, gesturing to journey?
 
-**Tara / Journey:** That's a little complicated, I I guess. I mean, I I was I was in the city and wandering around Farewell, and I found out that someone had taken one of the little fay buds. Not one of mine, but they had found one somewhere and taken it, hidden it away, and I thought at first that it was an accident. And so I went to I went to the place to try and get him to let it go. That's where Eryn found me.
+**Tara / Journey:** That's a little complicated, I I guess. I mean, I I was I was in the city and wandering around Farewell, and I found out that someone had taken one of the little Feybuds. Not one of mine, but they had found one somewhere and taken it, hidden it away, and I thought at first that it was an accident. And so I went to I went to the place to try and get him to let it go. That's where Eryn found me.
 
 **Tim / GM:** Eryn, you see a furry creature, something unfamiliar to you. They're looking through the windows at the blight hideout in the upper ledges. It doesn't look like they're trying to infiltrate the place. They're actually not making a big deal of hiding their physical presence all that much. They just really seem to be trying to see something that's in there.
 
@@ -2100,7 +2100,7 @@ Then Journey remembers how she met Eryn, and the memory won't let her go. She fa
 
 **John / Doran:** Fresh air might be good. Doran opens the door and, like, kinda fans it.
 
-**Tim / GM:** Yeah. You see all the smoke and incense pour out of this room, And there's a new kind of silence between all of you. And I think we'll end it there. Thanks everybody for listening. I am Tim, your GM, and all your turtles.
+**Tim / GM:** Yeah. You see all the smoke and incense pour out of this room, And there's a new kind of silence between all of you. And I think we'll end it there. Thanks everybody for listening. I am Tim, your GM, and all your tortles.
 
 **Hannah / Eryn:** I'm Hannah. I play Eryn.
 

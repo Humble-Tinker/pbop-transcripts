@@ -1,5 +1,5 @@
 # People Being Other People — Cloudfall Master Glossary
-*People Being Other People · Season 2: Cloudfall · Canonical spellings and known Transistor variants · updated through Episode 4*
+*People Being Other People · Season 2: Cloudfall · Canonical spellings and known Transistor variants · updated through Episode 8*
 
 > Imported from the Project copy dated 2026-07-09, then extended with the names Tim confirmed in the September E05–E07 session (Heavenly Feather, High Shire, cloud strata, Yarhar, DeWalter, Makeda, Chef Bowie, Kesher, Libera/"Liberia", puppy/Poppy). Variant spellings for those were re-derived from the transcripts.
 
@@ -11,11 +11,11 @@
 
 | Canonical | Also Appears As | Notes |
 |-----------|----------------|-------|
-| Eryn | Aaron · Erin · Eren | Changeling rogue · player: Hannah |
-| Journey | Journee · Jurnee | Firbolg ranger · player: Tara |
+| Eryn | Aaron · Erin · Eren · Arryn | Changeling rogue · player: Hannah |
+| Journey | Journee · Jurnee · Jordy · Jerdie · Cody | Firbolg ranger · player: Tara |
 | Poppy (Kenmore) | Poppy (correct) | Halfling baker-warlock · player: Maggie |
 | Guy | Guy (correct) | Dullahan paladin · player: Thomas |
-| Doran | Doreen · Dorne · Doren · Dorn · Darren · Dorian | Human bard · player: John |
+| Doran | Doreen · Dorne · Doren · Dorn · Darren · Dorian · Torin | Human bard · player: John |
 | Pinch | Pinch (correct) | Poppy's dough familiar · lives in her shirt |
 
 ---
@@ -45,9 +45,13 @@
 | Makeda | Mikita · Makita · Nikita | Heavenly Feather engineer · minor casting (E06) |
 | Chef Bowie | Chef Bowie (correct) | Bullywug chef of the Heavenly Feather (named E06) |
 | Kesher | Cashier | Kite-glider crew member · Eryn's assigned guard (E06) |
-| Hubert | Huber | Tortle · prime archivist of Lor (E07) |
+| Hubert | Huber | Tortle · prime archivist of Lor (E07) · E08 joke: Doran calls him "Huber," Hubert corrects him; keep "Huber" in that exchange |
 | Mikey | Mikey (correct) | Tortle · Hubert's nephew and apprentice · terrible baker (E07) |
 | April | April (correct) | Tortle archivist · collects stories with drift weed (E07) |
+| Shred | Shred (correct) | Tortle · prime Lore Hunter · calls Guy "General" (E08) |
+| Tulley | — | Tortle gardener · bonsai · cloud kips trust him · not named on mic in E08 |
+| Ralphie | Ralphie (correct) | Tortle child · Mikey's friend (E08) |
+| Ralph · Donald · Leon | (correct) | Young tortles Hubert names (E08) |
 
 ---
 
@@ -93,6 +97,8 @@
 | Null Substrata | null substrata | Magic-cancelling mist at the bottom · certain death for ships (E05) |
 | Lamplight Landing | Lamplight Landing (correct) | City where Yarhar nearly died (E05 · mentioned) |
 | Lodom | Lotem · Loedem | A guild / skyland |
+| Tower 25 | Tower 25 (correct) | Lor tower of war, torture, crime, atrocities · Guy's records (E08) |
+| Vindorn | Vindorn (correct) | Great mountain where the worst curses were stemmed (E08 · mentioned) |
 
 ---
 
@@ -101,7 +107,8 @@
 | Canonical | Also Appears As | Notes |
 |-----------|----------------|-------|
 | Bismyte | bismite · bismide · biz mite · Bismights · biz light · bismat · Bismarck | Core material · one of the most frequent words in the show |
-| Echo bell | ammonite · mennonite walkie talkie | Paired communication fossils |
+| Echo bell | ammonite · mennonite walkie talkie |
+| echo bells | Echo Wells | Plural row so the 's' survives | Paired communication fossils |
 | Pronto Puff | protobuf · proto puff | Poppy's baked item · prevents fall damage |
 | Pop Off | pop off (correct) | Poppy's baked item · attack chain roll |
 | Rolling Pin (cart) | rolling pin | Poppy's mobile bakery cart |
@@ -123,8 +130,14 @@
 | Aarakocra | Aarakocra (correct) |
 | Air Genasi | Air Genasi (correct) |
 | Earth Genasi | Earth Genasi (correct) |
-| Dullahan | Dullahan (correct) |
-| Feybud / Feybuds | fae bud · fay bud · Faye buds · fae bug |
+| Dullahan | dual hand |
+| tortle | torto · turtle (flag, don't auto-replace: nearly every "turtle" means tortle) |
+| cloud kip | cloud chip · cloud gyp · cloud Kipp · Cloud Kipa · cloud Kip |
+| cloud kips | Cloud Kipps | Glide-tailed cat-squirrel · never tamed (E08) |
+| bright bulb | brat bulb |
+| bright bulbs | brat bulbs | Floating cloud jellyfish · soup (E08) |
+| Feybud | fae bud · fay bud · fae bug |
+| Feybuds | fay buds · Faye buds · feybuds |
 | Changeling | Changeling (correct) |
 
 ---
@@ -161,6 +174,8 @@
 | Tildry | Teledry · Toldry | City of the Tower of Magic Poppy dropped out of (E06–E07) |
 | Mancy | Nancy · Yancey | Brigand Guy killed before the campaign (E07 flashback) |
 | Gove | gove (correct) | Cockney address term · not a name |
+| Lore Hunters | lore hunters · Lore hunters | Lor's knowledge-gathering tortles (E08) |
+| The six minutes | six minutes (correct) | Lor's daily bell for doing nothing (E08) |
 
 ---
 
@@ -190,3 +205,6 @@
 - Any "Orth-" marketplace mangle (Ortheor, Orthier, Ortheer, Oorthier) → Lake Orthyr
 - "fear bog/books/bulgs" / "fur bulb" / "fair ball" / "Fjerbug" → Firbolg
 - "Jason Calzone" / "Jaesung" / "Jayson Kelzone" → Jayson Chalzone
+- "turtle" → Tortle (nearly always; table and GM both say it)
+- "decks" in stat talk → Dex · "feet" in build talk → feat
+- "Speaker N" channel labels (E08) → map players from the outro introductions

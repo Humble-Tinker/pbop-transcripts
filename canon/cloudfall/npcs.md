@@ -98,7 +98,7 @@
 - 37, never left Lor · leads the six minutes · gave the party wild echo bells · impersonated by Eryn at Tower 13 (E08)
 
 ### Shred
-- Tortle · prime lore hunter · large, gruff · met Guy 10 years ago on Lodom and calls him "General" · knows Guy's records are in Tower 25 (E08)
+- Tortle · prime Lore Hunter · large, gruff · met Guy 10 years ago on Lodom and calls him "General" · knows Guy's records are in Tower 25 (E08)
 - **Status: vowed to enforce Lor's rules against Guy (E08)**
 
 ### The old man
@@ -107,7 +107,7 @@
 - **Status: unknown · Hubert's people searching (E08)**
 
 ### Lor tortles
-- **The gardener** — unnamed · largest tortle seen · prunes the bonsai garden · cloud kips trust him (E08)
+- **Tulley** — gardener · largest tortle seen · prunes the bonsai garden · cloud kips trust him (E08)
 - **Ralphie** — child · Mikey's friend · Hubert also names Ralph, Donald, and Leon (E08)
 
 ## Deceased

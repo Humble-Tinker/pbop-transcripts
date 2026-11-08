@@ -5,7 +5,7 @@
 
 ## Full Summary
 
-Minutes after Journey's vision, the party steps out of April's hut for tea. Journey insists she's fine and brushes off Doran's questions about who spoke to her. A rare break in the clouds shows them Lor's wildlife: drifting jellyfish-like **bright bulbs** (good for soup), the kitten-sized, glide-tailed **cloud kip** (the most coveted pet in the clouds, never once tamed), and a pair of wild echo bells, which turn out to be snail shells that fuse while mating and stay entangled forever; April gives the party the pair. A distant bell starts the island's daily six minutes of doing nothing, and during it the party reaches level 4 and the players walk through their builds. Released, they split up. Doran and Guy go to scout Tower 13. Journey goes off alone to mourn the Feybud Diver drained; on the island's west slope she meets a very old, delayed, blue-eyed man dense with magic, a fiend with a trace of celestial, who vanishes when Hubert arrives calling for her. Eryn, disguised as April, finds a cloud kip with a natural 20 Survival but loses it, then watches a huge, gentle tortle gardener coax it onto his shell while he prunes bonsai. Poppy follows her nose to the tortles' meal of bright bulb soup, learns their spices come from Saffron, and wins them over with chocolate chip cookies; Hubert calls her an angel unto the island. Journey arrives and tells Hubert about the old man, who takes it seriously and orders a search. At Tower 13, Doran finds the door locked and a chalk door outline around the back, and Eryn, still as April, ambushes them with threats to push them off the island. They never noticed the echo bell on the door: Hubert, Poppy, and **Shred**, the prime lore hunter, heard everything. Hubert explains the tower was sealed after an event 16 years ago that no one has come out of since. Shred addresses Guy as "General": they met 10 years ago on Lodom, and Guy's own account of his past sits in **Tower 25**, the tower of war, torture, crime, and atrocities. The price is too high, no one may pay for him, and Hubert asks them to stop taking what isn't granted. Guy says no locked door will stop him. Shred says he'll enforce the rules, Guy puts a hand on his sword, and Poppy suggests they talk about it a little more.
+Minutes after Journey's vision, the party steps out of April's hut for tea. Journey insists she's fine and brushes off Doran's questions about who spoke to her. A rare break in the clouds shows them Lor's wildlife: drifting jellyfish-like **bright bulbs** (good for soup), the kitten-sized, glide-tailed **cloud kip** (the most coveted pet in the clouds, never once tamed), and a pair of wild echo bells, which turn out to be snail shells that fuse while mating and stay entangled forever; April gives the party the pair. A distant bell starts the island's daily six minutes of doing nothing, and during it the party reaches level 4 and the players walk through their builds. Released, they split up. Doran and Guy go to scout Tower 13. Journey goes off alone to mourn the Feybud Diver drained; on the island's west slope she meets a very old, delayed, blue-eyed man dense with magic, a fiend with a trace of celestial, who vanishes when Hubert arrives calling for her. Eryn, disguised as April, finds a cloud kip with a natural 20 Survival but loses it, then watches **Tulley**, a huge, gentle tortle gardener, coax it onto his shell while he prunes bonsai. Poppy follows her nose to the tortles' meal of bright bulb soup, learns their spices come from Saffron, and wins them over with chocolate chip cookies; Hubert calls her an angel unto the island. Journey arrives and tells Hubert about the old man, who takes it seriously and orders a search. At Tower 13, Doran finds the door locked and a chalk door outline around the back, and Eryn, still as April, ambushes them with threats to push them off the island. They never noticed the echo bell on the door: Hubert, Poppy, and **Shred**, the prime Lore Hunter, heard everything. Hubert explains the tower was sealed after an event 16 years ago that no one has come out of since. Shred addresses Guy as "General": they met 10 years ago on Lodom, and Guy's own account of his past sits in **Tower 25**, the tower of war, torture, crime, and atrocities. The price is too high, no one may pay for him, and Hubert asks them to stop taking what isn't granted. Guy says no locked door will stop him. Shred says he'll enforce the rules, Guy puts a hand on his sword, and Poppy suggests they talk about it a little more.
 
 ---
 
@@ -51,14 +51,14 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
   - A distant bell rings, and through April's echo bell too
   - Once a day, six minutes of doing nothing · *"It is forbidden to make progress."*
   - Guy struggles with whether appreciating counts · April is 37, getting on in years, never left Lor
-  - About 50 tortles in all, depending on how many **lore hunters** are out
+  - About 50 tortles in all, depending on how many **Lore Hunters** are out
 
 ### Part 3 — Level 4 Check-In
 *(15:30 – 24:23)*
 
 - **The party reaches level 4** · the players walk through their builds
   - **Doran** · College of Eloquence · rapier · Healing Word, Silvery Barbs, Sleep, Calm Emotions, Enhance Ability · Command and Misty Step from the Fey Touched feat, with a story tied to it · new: Minor Illusion, Suggestion
-  - **Guy** · one level of warlock for Form of Dread · now paladin 3, Oath of Vengeance · Abjure Enemy, Vow of Enmity · Bane and Hunter's Mark · *"your whole build is to instill fear"*
+  - **Guy** · one level of warlock for his flashier Dullahan abilities, like Form of Dread · now paladin 3, Oath of Vengeance · Abjure Enemy, Vow of Enmity · Bane and Hunter's Mark · *"your whole build is to instill fear"*
   - **Poppy** · Chef feat · Create Bonfire, Aid · *"I'm just getting rounder."*
   - **Journey** · Swarm Keeper, the Feybuds as her swarm · Primal Savagery, Thorn Whip · Dex
   - **Eryn** · Thief · Fast Hands, Second-Story Work · Dex · forms so far: the elf woman, Tryndle Breath, assorted children · Tryndle is based on a real Farewell noblewoman
@@ -70,7 +70,7 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
   - Doran jokes about Tower 13 · Guy, seriously: what if they ignored the rules?
   - Poppy: it's cursed · Doran: Guy deserves to learn what he needs to
   - Journey: wait for the ship to come back, in case they get kicked off · then asks to go off alone to mourn the Feybud lost to Diver
-  - Doran and Guy to scout Tower 13, not go in · Poppy for soup · Eryn turns into a tortle and walks into the woods
+  - Doran and Guy to scout Tower 13, not go in · Poppy for soup · Eryn shifts into April, a tortle, and walks into the woods
 
 ### Part 5 — Funeral for a Fae
 *(29:56 – 37:35)*
@@ -107,9 +107,9 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
   - She tries to scoop it into a cowl-neck hood · Sleight of Hand fails · it catches the wind and drifts off like a lost dandelion
   - Eryn: holding out for a black one anyway
 
-- **The gardener**
+- **Tulley**
   - Footsteps · Eryn hides (Stealth 17)
-  - A huge tortle, far bigger than Hubert, with iron shears, prunes the bonsai
+  - **Tulley**, a huge tortle far bigger than Hubert, prunes the bonsai with iron shears
   - Coaxes the kip onto his shell · *"That's a good girl."*
   - Pruning makes small things look grand · *"It's beautiful because we choose to see it that way."* · *"Old things can be big."*
   - Leaves never knowing Eryn was there · the table credits Michael Caine
@@ -162,7 +162,7 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
 *(01:06:48 – 01:19:00)*
 
 - **The walk over**
-  - Hubert fumes · the gruff tortle walking with Poppy is **Shred**, prime lore hunter, one of the few to leave and return
+  - Hubert fumes · the gruff tortle walking with Poppy is **Shred**, prime Lore Hunter, one of the few to leave and return
   - Poppy pleads for Guy: he just wants to know what happened to him, she took him in · Hubert: *"I will take mercy on him."*
 
 - **Caught**
@@ -171,7 +171,7 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
   - Hubert: *"My name is Hubert."* · Doran assumed a silent t
 
 - **Tower 13's history**
-  - An event some 16 years ago · lore hunters went in to cleanse it · no one has come out since
+  - An event some 16 years ago · Lore Hunters went in to cleanse it · no one has come out since
   - Poppy thought curses ended with the great mountain **Vindorn** · Hubert: that only stemmed the worst of them
   - Guy: what if one enters whom death has already visited? · Hubert: the tower cares little for technicalities · wretched creatures, unimaginable darkness
 
@@ -202,12 +202,12 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
 - **Status: vanished · Hubert's people searching for him**
 
 ### Shred *(new)*
-- **Tortle** · prime lore hunter · large, gruff, imposing · one of the few to leave Lor and come back with stories
+- **Tortle** · prime Lore Hunter · large, gruff, imposing · one of the few to leave Lor and come back with stories
 - Met Guy 10 years ago on Lodom · calls him "General" · flinches when Guy speaks
 - **Status: has vowed to enforce the island's rules**
 
-### The gardener *(new · unnamed)*
-- **Tortle** · the largest the party has seen · iron shears · prunes the bonsai garden in the juniper grove
+### Tulley *(new)*
+- **Tortle** gardener · not named on mic (name confirmed by Tim) · the largest the party has seen · iron shears · prunes the bonsai garden in the juniper grove
 - Gentle with the cloud kip, which trusts him · calm philosophy of perception
 
 ### Ralphie *(new)*
@@ -265,7 +265,7 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
 
 ### Lor customs *(new)*
 - **The six minutes** · a daily bell · six minutes of observing and appreciating · progress is forbidden
-- **Lore hunters** · tortles sent out to gather knowledge · about 50 tortles on the island in all
+- **Lore Hunters** · tortles sent out to gather knowledge · about 50 tortles on the island in all
 - **The whale** · sweets arrive only when it comes by, every couple of months
 - No paying for someone else's knowledge
 
@@ -274,7 +274,7 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
 
 ### Curses *(updated)*
 - The events at the great mountain Vindorn stemmed the worst of the world's curses, but didn't end them
-- Tower 13: sealed after an event some 16 years ago · lore hunters who went in to cleanse it never came out
+- Tower 13: sealed after an event some 16 years ago · Lore Hunters who went in to cleanse it never came out
 
 ### Party advancement
 - The party reaches **level 4** (see Part 3)
@@ -290,7 +290,7 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
 - **Tower 13** — sealed after an event 16 years ago · no one came out · chalk door outline around the back *(updated)*
 - **Hubert's trust** — caught at Tower 13 on day one · "don't take what isn't granted" *(first occurrence)*
 - **Journey's vision** — deflected with the party · to Poppy: "maybe it was real" *(updated)*
-- **Cloud kip** — Eryn wants one, a black one · the gardener can call them *(first occurrence)*
+- **Cloud kip** — Eryn wants one, a black one · Tulley can call them *(first occurrence)*
 - **The whale** — brings sweets every couple of months *(first occurrence)*
 - **Doran's Fey Touched story** — "has a story element that may come up" *(first occurrence)*
 - **Guy's curse** — Guy still considers himself cursed *(updated)*
@@ -312,7 +312,7 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
 | 00:20:12 | Poppy | *"I'm just getting rounder."* | Answering "couldn't be more well rounded" |
 | 00:33:09 | Old man (GM) | *"I didn't know there was anyone else out here."* | Echoing Journey back on a delay · the episode's creepiest beat |
 | 00:37:39 | Guy | *"Funeral for a Fae, To Catch a Cloud Kip, The Search for Soup, and Trouble in Tower 13."* | Thomas titles the episode's subplots · table: "Beautiful" |
-| 00:45:58 | Gardener (GM) | *"It's beautiful because we choose to see it that way. Old things can be big."* | Quiet wisdom · the table names him Michael Caine |
+| 00:45:58 | Tulley (GM) | *"It's beautiful because we choose to see it that way. Old things can be big."* | Quiet wisdom · the table names him Michael Caine |
 | 00:48:06 | Poppy | *"That's so fucked up. Is there a line?"* | Watching a jellyfish stirred into stew, then queuing |
 | 00:55:28 | Hubert (GM) | *"An angel unto this island."* | The cookie payoff |
 | 01:01:49 | Guy | *"I did not touch the door, but may I also throw myself off the island?"* | Earnest chivalry to a disguised Eryn · reaction likely in the room |
@@ -330,7 +330,8 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
 |---------|------------------|
 | Hubert | Huber (19×, auto) · kept as "Huber" in the 01:10 exchange, where the mispronunciation is the joke |
 | Isle of Lor | "landed at lower" (recap) · "on lore" · "Lore is especially rich" |
-| tortle | torto |
+| tortle | torto · turtle (nearly every instance; confirmed by Tim) |
+| Tulley | not said on mic · the gardener tortle (confirmed by Tim) |
 | cloud kip | cloud chip · cloud gyp · Cloud Kipps · cloud Kipp · Cloud Kipa · "class gifts" (new creature, correct — watch future episodes) |
 | bright bulb | brat bulbs (new creature, correct — watch future episodes) |
 | echo bells | Echo Wells |
@@ -338,7 +339,7 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
 | Ralphie · Ralph · Donald · Leon | (correct — new tortle children, watch future episodes) |
 | Vindorn | Vindorn (spelling unconfirmed — new) |
 | Tower 25 | Tower 25 (correct — new) |
-| lore hunters | lore hunters (lowercase "lore" or "Lor hunters"?) |
+| Lore Hunters | Lore Hunters (confirmed by Tim) |
 | Eryn | Arryn (new variant) |
 | Doran | Torin |
 | Poppy | Puppy (00:19:43) · Abby (01:10:12) |
@@ -346,7 +347,6 @@ Minutes after Journey's vision, the party steps out of April's hut for tea. Jour
 | Saffron | saffron (lowercase) |
 | Dex | decks |
 | Fey Touched · Chef · Enhance Ability · Misty Step · Thorn Whip | Fey touch · chef eat · Enhanceability · misty stuff · thornwhip |
-| ? | Jerdie · Jordy (Hubert calling for Journey, and Tim echoes "Ah, Jordy") |
-| ? | "Cody? Cody, where are you?" (00:35:56, just before Hubert appears) |
+| Journey | Jordy · Jerdie · Cody (confirmed by Tim) |
 | ? | "heaven's feather" (Hubert, 01:04:38) · Hubert's own slip or Heavenly Feather? |
-| ? | "dual hand abilities" (Guy, 00:18:03) · Dullahan abilities? left as is |
+| Dullahan | dual hand (confirmed by Tim) |

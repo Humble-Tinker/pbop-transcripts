@@ -73,8 +73,8 @@
 | NPC | Status |
 |-----|--------|
 | The old man | New · vanished on the west slope · Hubert's people searching |
-| Shred | New · prime lore hunter · vowed to enforce the rules against Guy |
-| The gardener | New · unnamed · tends the bonsai garden |
+| Shred | New · prime Lore Hunter · vowed to enforce the rules against Guy |
+| Tulley | New · tortle gardener · tends the bonsai garden |
 | Ralphie | New · tortle child · fed cookies |
 | Hubert | Distrusts Doran and Guy · grateful to Poppy |
 | April | Impersonated by Eryn · Hubert thinks she's had too much Driftweed |
@@ -102,11 +102,11 @@
 | Journey | Feybuds released (mourning) | 1 |
 | Journey | Detect Magic | 1 |
 | Journey | Primeval Awareness | 1 |
-| Eryn | Shapeshift: tortle / April | 1 |
+| Eryn | Shapeshift: April (a tortle) | 1 |
 | Guy | Sensing at Tower 13 ("Let me see. No.") | 1 |
 | Poppy | Chocolate chip cookies, baked for the tortles | 1 |
 
-> *Eryn turns "into a turtle" at 00:29:48 and into April at 00:38:26. Counted once as the same disguise; confirm if Hannah meant two shifts. Guy's check at Tower 13 is unnamed in the transcript, so it's logged as a sensing check rather than a specific ability.*
+> *Eryn's shift at 00:29:48 is the April disguise she keeps through Tower 13 (confirmed by Tim). Guy's check at Tower 13 is unnamed in the transcript, so it's logged as a sensing check rather than a specific ability.*
 
 ---
 
@@ -159,11 +159,11 @@
 
 | Time | Character | Roll | Result | Outcome |
 |------|-----------|------|--------|---------|
-| 00:27:11 | Doran | Unstated check | 23 | Called out as Journey leaves alone · purpose not stated |
+| 00:27:11 | Doran | Insight | 23 | Does Journey want solitude, or just to play with cloud kips? (a joke) |
 | 00:38:58 | Eryn | Survival (+0) | **Nat 20** | Tracks the cloud kip to the bonsai garden |
 | 00:41:34 | Eryn | Stealth | 13 | The kip spots her and hides |
 | 00:43:05 | Eryn | Sleight of Hand | 8 | The kip escapes on the wind · number spoken on Maggie's channel |
-| 00:43:52 | Eryn | Stealth | 17 | Unseen by the gardener |
+| 00:43:52 | Eryn | Stealth | 17 | Unseen by Tulley |
 | 00:46:52 | Poppy | Perception | 12 | Catches the soup scent · needs April to find it |
 | 00:56:49 | Doran · Guy | Perception | 13 · 9 | Coast looks clear · both miss the echo bell on the door |
 | 00:57:27 | Doran | Investigation | 14 | Finds the chalk door outline |

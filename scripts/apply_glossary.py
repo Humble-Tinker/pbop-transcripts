@@ -39,6 +39,7 @@ AMBIGUOUS_VARIANTS = {
     "weasel guy",    # GM description of Derringer, not a mishearing
     "brunhilda flann",  # Mercy's real name, said on purpose
     "puppy",    # Poppy vs a literal puppy
+    "turtle",   # Tortle, but flag rather than replace (literal turtles possible)
 }
 
 # Canonical cells that are descriptions, not spellings to inject.
@@ -110,6 +111,10 @@ def target_for(variant, canonical):
     "protobuf" still -> "Pronto Puff". Pick whichever prefix of the canonical
     the variant most resembles."""
     words = canonical.split()
+    # Only single-word mishearings shorten to a prefix; a multi-word variant
+    # ("cloud gyp") always maps to the full canonical ("cloud kip").
+    if len(variant.split()) > 1:
+        return canonical
     v = variant.lower().replace(" ", "")
     best, best_score = canonical, -1.0
     for n in range(1, len(words) + 1):

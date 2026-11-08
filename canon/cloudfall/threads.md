@@ -11,7 +11,7 @@
 - **Tower 25** — Guy's own account of his past · price too high, no one may pay for him · first E08
 - **Standoff with Shred** — Guy won't let a locked door stop him · Shred will enforce the rules · first E08
 - **Hubert's trust** — caught at Tower 13 on day one · first E08
-- **Cloud kip** — Eryn wants one (a black one) · the gardener can call them · first E08
+- **Cloud kip** — Eryn wants one (a black one) · Tulley can call them · first E08
 - **The whale** — brings Lor its sweets · first E08
 - **Doran's Fey Touched story** — "may come up" · first E08
 - **Diver** — escaped by engineless Bismyte flight E02 · at large · Libera handling him (E04)
